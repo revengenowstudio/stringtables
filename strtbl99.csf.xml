@@ -83,6 +83,76 @@
   <v lbl="WDTEuropeCampaign">Europe</v>
   <v lbl="WDTAsiaCampaign">Asia</v>
   <v lbl="COOPERATIVEWIN">YOU ARE VICTORIOUS!</v>
+<!--LoadBrief section-->
+  <v lbl="LoadBrief:British">英国拥有强大的士兵师力量以及先进的步兵师装备。
+
+专属能力：空投战甲、空投单兵碉堡
+
+专属单位：狙击手、观察员、布伦运载车、
+          圣骑士战甲、利刃突击艇、步兵战术中心</v>
+  <v lbl="LoadBrief:USA">美国拥有最完善的后勤保障和快速打击能力。
+
+专属能力：空降部队、空降坦克、机降游骑兵、
+          精确打击、空降精英光棱
+
+专属单位：蜂鸟直升机、时空猎手、超时空载具传送平台</v>
+  <v lbl="LoadBrief:French">法国拥有火力强大的防守武器和先进的防御技术，它们射程长，破坏力惊人。
+
+专属能力：洛林EMP升级、投放防御塔
+
+专属单位：洛林导弹系统、巨炮、粉碎大炮、
+          布雷推土机、气象塔</v>
+  <v lbl="LoadBrief:Germans">德国拥有完备的装甲师配置，擅长使用坦克集群与敌方正面交锋。
+
+专属能力：王牌车组、自动化加速生产（未完成）
+
+专属单位：灰熊UC、 条顿重型坦克、极光支援者、电子干扰车、
+          瓦尔哈拉维修平台、自动加工车间（未完成）</v>
+  <v lbl="LoadBrief:Korea">韩国将旧式的武装经过现代化升级以获得性价比优势，并易于采用对目标区域进行炮火覆盖后再进入敌占区的战术。
+
+专属能力：EMP轰炸支援、集火炮击
+
+专属单位：炎流弹步兵、光明星自行火炮、忠武级战舰、先军要塞</v>
+  <v lbl="LoadBrief:Russia">苏俄拥有先进的磁能科技，发达的工业体系，能在战局发展的任何阶段迅速形成不容小觑的力量。
+
+专属能力：超凡磁暴、天降红潮
+
+专属单位：磁能坦克、赛博格战队、磁能要塞、磁暴铁塔</v>
+  <v lbl="LoadBrief:Cuba">古巴的共产主义战士们从不撤退。他们在弹尽粮绝之时，不惜为苏维埃牺牲性命，多以自杀性冲锋方式与敌军最后一搏。
+
+专属能力：亡者救赎、狂热（未完成）
+
+专属单位：荣耀战士、亡命冲锋车、地狱自爆战机、
+          爆破小艇、赤炎坦克、烈焰核心、收割者、地道</v>
+  <v lbl="LoadBrief:Lybia">乌克兰拥有先进的核武器技术，能迅速有效地消灭大范围的敌人，无论攻防都不落于劣势。
+
+专属能力：超凡磁暴、核能武装（未完成）、反应堆过载（未完成）；
+
+专属单位：战术核炮、菲林斯核堡垒、赛博格战队、战术核潜艇</v>
+  <v lbl="LoadBrief:Iraq">越南在化学战方面有着丰富的经验，他们普遍使用脏弹、毒素等杀伤敌方人员，很好的弥补了防护不足的弱势；同时结合诡异多变的战术，给敌人造成了极大的损失。
+
+专属能力：亡者救赎、双面间谍（未完成）、致命封锁（未完成）
+
+专属单位：化学工兵、毒蝎坦克、毒牙轰炸机、生化导弹车、
+          收割者、赤炎坦克、烈焰核心、地道</v>
+  <v lbl="LoadBrief:YuriCountry">原隶属于苏军阵营的尤里对苏军与盟军的基本军备了如指掌，并且善于结合三阵营的科技；此外，借力于天外科技，尤里便能以一己之力撼动整个战场的局势。
+
+专属能力：空降炸弹（待改进）
+
+专属单位：潜地突击车、镭射炮坦克、噬魂者坦克、
+          阿瑞斯火炮、意念核心</v>
+<!--LoadBriefShort section-->
+  <v lbl="LoadBriefShort:British">英国拥有军备较为完善的步兵师。</v>
+  <v lbl="LoadBriefShort:USA">美国拥有完善的快速打击与战场支援能力。</v>
+  <v lbl="LoadBriefShort:French">法国拥有先进的防御技术和防御武器。</v>
+  <v lbl="LoadBriefShort:Germans">德国拥有最具杀伤力的装甲军团。</v>
+  <v lbl="LoadBriefShort:Korea">韩国拥有全面的战机编队与极具威力的炮火打击力量。</v>
+  <v lbl="LoadBriefShort:Russia">苏俄拥有先进的磁能技术能在任何时刻形成不可小视的力量。</v>
+  <v lbl="LoadBriefShort:Cuba">古巴的亡命冲锋战术令敌人闻风丧胆。</v>
+  <v lbl="LoadBriefShort:Lybia">乌克兰利用强大的核武技术大规模重创敌方陆军部队。</v>
+  <v lbl="LoadBriefShort:Iraq">越南依靠生化武器有效制约敌军的步兵师和装甲师力量。</v>
+  <v lbl="LoadBriefShort:YuriCountry">尤里阵营拥有自己的科技树并善于融合所有科技。</v>
+<!--GameTypeDesc section-->
   <v lbl="GameTypeDesc:Battle">Ally with other players and battle until one team is victorious.</v>
   <v lbl="GameTypeDesc:FFA">Alliances are forbidden, there can be only one victor.</v>
   <v lbl="GameTypeDesc:MeatGrinder">High-technology weapons are not available.</v>
@@ -91,6 +161,7 @@
   <v lbl="GameTypeDesc:LandRush">Begin with only an MCV near your enemies. Rush to the best building locations.</v>
   <v lbl="GameTypeDesc:MegaWealth">Capture Oil Derricks in order to make money.</v>
   <v lbl="GameTypeDesc:Cooperative">Play campaign with a friend.</v>
+<!--CRD section-->
   <v lbl="CRD:CREDITS">CREDITS</v>
   <v lbl="CRD:INTRODUCTION1">Red Alert 2 &amp; Yuri's Revenge are based on the original Command &amp; Conquer</v>
   <v lbl="CRD:INTRODUCTION2">created by Brett Sperry and Joseph Bostic</v>

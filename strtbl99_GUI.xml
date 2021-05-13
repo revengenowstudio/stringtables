@@ -685,6 +685,7 @@
   <v lbl="GUI:ParTitleTrn02">Your rank is: Captain</v>
   <v lbl="GUI:OverParMsgTrn02">Although the rocket launch pad has been seized, your hesitant strategy has made the Allied and Soviet forces aware of the movements of Yuri's army, and the enemy may have been prepared for it. This may make us passive in the next actions.</v>
   <v lbl="GUI:UnderParMsgTrn02">We decisively seized the rocket launch pad before the enemy could understand what had happened, and the Allies did not have enough time to apply for support from the headquarters. Your wisdom and decisiveness have already impressed Prime Minister Yuri.</v>
+<!--MSG section-->
   <v lbl="MSG:PingInfo">Ping = %dms</v>
   <v lbl="MSG:Critical">critical</v>
   <v lbl="MSG:HeavilyDamaged">heavily damaged</v>
