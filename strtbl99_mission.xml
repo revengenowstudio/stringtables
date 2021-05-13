@@ -1,0 +1,737 @@
+  <v lbl="Brief:Error">Oops, there's no briefing for this mission. Examine MISSION.INI and RA2.STR for examples of how to do this.</v>
+  <v lbl="Brief:SOV01">It is your good fortune to be in the vanguard of the Soviet assault on the United States. Lead your troops through Washington and destroy the most hated symbol of American military power, the Pentagon. 
+ 
+ Objective 1: Destroy the Pentagon.</v>
+  <v lbl="Brief:SOV02">The Americans have foolishly gathered a fleet in a small harbor on the eastern coast of Florida. Assisted by General Vladimir in his Dreadnought, you will force a landing on the hostile shore and set up a base. When ready, you will strike out against the capitalist pigs and crush them under the iron heel of Soviet justice. 
+ 
+ Objective 1: Force a landing and set up a base. 
+ 
+ Objective 2: Destroy all enemy forces.</v>
+  <v lbl="Brief:SOV03">In order to complete our psychic beacon, we will need to capture some American technology. Lead your forces into New York and capture their Battle Lab. Then build a Psychic Beacon to take control of the city. 
+ 
+ Objective 1: Capture the American Battle Lab. 
+ 
+ Objective 2: Build and defend a Psychic Beacon.</v>
+  <v lbl="Brief:SOV04">The foolish Koreans have decided to take sides with the failing Allies. Their cowardly attempt to invade our Eastern territories will surely fail. Defend the motherland and, when you are ready, push the Koreans back into the ocean. 
+ 
+ Objective 1: Establish a base. Defend the homeland. 
+ 
+ Objective 2: Destroy all enemy forces.</v>
+  <v lbl="Brief:SOV05">The European nations are planning to join with the crippled Americans. We must not let this act of aggresion go unpunished. You will lay waste to their beautiful Paris. We will show the Allies the true meaning of power by turning their own precious monuments into weapons of mass destruction. 
+ 
+ Objective 1: Energize the PARIS TOWER with 3 TESLA TROOPERS. 
+ Objective 2: Defend the PARIS TOWER from Allied attack. 
+ Objective 3: Defeat all remaining Allied troops.</v>
+  <v lbl="Brief:SOV06">The Americans are on their knees, begging for mercy. The last remnants of their fleet at Pearl Harbor waits helplessly for your relentless attack. However, we have news that the Koreans are not yet beaten and may attempt to join up with the American Navy. They must not succeed. 
+ 
+ Objective 1: Establish a base in the Hawaiian Islands. 
+ 
+ Objective 2: Destroy the Allied Navy.</v>
+  <v lbl="Brief:SOV07">The Americans have engaged their Chronosphere; a device that allows them to move soldiers across great distances almost instantly. They can now strike anywhere they wish. You must defend our Battle Lab in the Ural mountains. The Americans will surely strike there soon in a desperate but doomed attempt to shut down our development of the ultimate battle tank. 
+ 
+ Objective 1: Defend your Battle Lab at all costs.</v>
+  <v lbl="Brief:SOV08">Even in the hour of our greatest victory, General Vladimir has turned against us. Tempted by the soft American lifestyle, he has gone rogue and convinced many loyal communists to turn against us. You must go to Washington DC and dig Vladimir out of his wretched hole. 
+ 
+ Objective 1: Capture the White House.</v>
+  <v lbl="Brief:SOV09">Our victory is near at hand. The President has successfully eluded us, but we have tracked him to a dirty little fort called 'The Alamo' in San Antonio, Texas. You must use our Psi-Corp Troopers to mind control the President and force him to surrender the United States. 
+ 
+ Objective 1: Use Mind-Control to capture the President.</v>
+  <v lbl="Brief:SOV10">In their final desperate hours, the Allies have managed to produce one last bit of super-technology. They have a Weather Control Device which they can use to create terrible storms that can sink fleets and level cities. We believe they have hidden their doomsday weapon in the isolated US Virgin Islands. 
+ 
+ Objective 1: Capture the American Battle Lab to locate the Weather Control Device. 
+ 
+ Objective 2: Destroy the Weather Control Device.</v>
+  <v lbl="Brief:SOV11">Yuri has turned against us. There is only one answer for such treason. 
+ 
+ Objective 1: Destroy Yuri's headquarters - The Kremlin.</v>
+  <v lbl="Brief:SOV12">We have found the last feeble Allied stronghold. Their Chronosphere, now fully operational, can move soldiers anywhere in the world. They can strike at us in New York, in Prague, even in Moscow. Yuri's files show the device is located near Point Hope, Alaska. You must take what few forces we have in the area and lead an attack, before the Allies make use of their cowardly technology. This is the final hour, commander. Glory awaits. 
+ 
+ Objective 1: Destroy the Chronosphere.</v>
+  <v lbl="Brief:ALL01">The Soviets have invaded. They outnumber us ten to one. You must assist special agent Tanya in New York. We are marshaling our forces as fast as we can, Commander, but we need time. A small American base, Fort Bradley, is in the New York area. If you can make contact, they may be able to assist in the defense of New York. Tanya will be moving through a chaotic battlefield. Keep your eye out for targets of opportunity and watch for new mission objectives. 
+ 
+ Objective 1: Destroy the Soviet Dreadnought fleet. 
+ 
+ Objective 2: Make contact with Fort Bradley. 
+ 
+ Objective 3: Keep Tanya alive.</v>
+  <v lbl="Brief:ALL02">Soviet troops cover America like a foul plague. They have even penetrated our heartland to capture the Air Force Academy in Colorado. The Academy, its cadets, and the unique technology it contains are vital to our defense. Use Tanya to contact any American forces in the area, reclaim our Air Force Academy, and drive the Soviets from the area. 
+ 
+ Objective 1: Capture the Soviet-occupied Air Force Academy Chapel. 
+ 
+ Objective 2: Destroy all Soviet forces. 
+ 
+ Objective 3: Keep Tanya alive.</v>
+  <v lbl="Brief:ALL03">The Soviets have invaded Washington DC and have used their evil psychic technology to mind control our leaders. You must rescue them by destroying the Psychic Beacon near the White House. 
+ 
+ Objective 1: Destroy the Psychic Beacon.</v>
+  <v lbl="Brief:ALL04">Soviet forces continue to rampage across America. Our agents have discovered a large Psychic Amplifier in Chicago. If activated, this device will allow the Soviets to mind control all of North America. 
+ 
+ Objective 1: Force a shore landing and establish a base. 
+ 
+ Objective 2: Destroy the Psychic Amplifier before it comes online.</v>
+  <v lbl="Brief:ALL05">European forces still refuse to fight with us, fearing a Soviet nuclear counterattack. We have discovered the location of their medium-range missiles in Poland. Special agent Tanya has secretly crossed the Polish border. You will direct her to destroy the Soviet Nuclear Missiles. 
+ 
+ Objective 1: Infiltrate the Soviet Battle Lab. 
+ 
+ Objective 2: Neutralize the 2 Soviet Nuclear Missile Silos. 
+ 
+ Objective 3: Keep Tanya alive.</v>
+  <v lbl="Brief:ALL06">The Europeans have joined with us and the time has come to counterattack. We will retake Washington DC and then we will retake the rest of our nation from the Soviet scum. 
+ 
+ Objective 1: Reinforce and assume command of Allied forces at the Pentagon. 
+ 
+ Objective 2: Destroy all Soviet forces in Washington.</v>
+  <v lbl="Brief:ALL07">The Soviets still cover most of the globe. We must continue to fight them wherever they may be. A Soviet fleet has been discovered en route to Hawaii. Destroy this fleet and the Pacific will be ours. 
+ 
+ Objective 1: Destroy all Soviet forces.</v>
+  <v lbl="Brief:ALL08">Even as we cleanse America of Soviet forces, they continue to play with their psychic technology, desperately hoping that their little toys will destroy us. We have discovered a Psychic Beacon in St. Louis. Take special agent Tanya in and destroy the beacon. 
+ 
+ Objective 1: Destroy the Soviet Psychic Beacon. 
+ 
+ Objective 2: Destroy all Soviet forces within St. Louis. 
+ 
+ Objective 3: Don't get Tanya killed.</v>
+  <v lbl="Brief:ALL09">The Soviets captured one of our west coast bases and with it one of our Prism Towers. We believe they may be trying to replicate that technology at a secret Soviet research facility in the Yucatan. A SEAL strike team is standing by, Commander, awaiting your orders. 
+ 
+ Objective 1: Capture or Destroy any Soviet attempts to replicate our Prism Technology. 
+ 
+ Objective 2: Eradicate the Soviet base defending their research site.</v>
+  <v lbl="Brief:ALL10">Desperate for some success, Soviet forces have counterattacked our European allies in Germany, moving deep into the Black Forest. No doubt their commanders hope that they will find and capture Einstein's laboratory. Your special talents have been asked for. The Germans fear they will be defeated without your strategic skills. 
+ 
+ Objective 1: Ensure the safety of Professor Einstein's laboratory. 
+ 
+ Objective 2: Destroy all Soviet forces.</v>
+  <v lbl="Brief:ALL11">Einstein has found the perfect place for his Chronosphere. Unfortunately this location is very close to Soviet-controlled Cuba. Build the Chronosphere and clear the area of Soviet nuclear missiles. We are nearly ready for our final attack on Moscow. 
+ 
+ Objective 1: Build a Chronosphere. 
+ 
+ Objective 2: Neutralize the Soviet Nuclear threat on Cuba.</v>
+  <v lbl="Brief:ALL12">The war is nearly at an end. A hand-picked group of volunteers will use the Chronosphere to invade Moscow from across the world. Once you have secured the Kremlin, Tanya will capture Romanov and put an end to Soviet aggression. You are the only commander skilled enough to make this work. Your forces will be outnumbered at least ten to one. Good luck. 
+ 
+ Objective 1: Clear the area so Chrono Reinforcements can arrive. 
+ 
+ Objective 2: Eliminate Romanov's Elite Black Guard around the Kremlin.</v>
+  <v lbl="Brief:TRN01">This is basic training. Listen to your sergeant and do as he tells you.</v>
+  <v lbl="Brief:TRN02">This is the last day of your basic training. Time is short and the Soviets may attack soon. Listen to your sergeant, learn what you can, and prepare for battle.</v>
+  <v lbl="BRIEF:ALL01MD">It's only a matter of time before Yuri brings the Psychic Dominator on Alcatraz back online. Our only chance is to use Professor Einstein's Time Machine to send us back in time and stop Yuri before he can complete his worldwide network of Psychic Domnators. 
+ 
+ Objective 1: Capture Power Plants to power the Time Machine 
+ Objective 2: Defend the Time Machine 
+ Objective 3: Destroy the Psychic Dominator on Alcatraz</v>
+  <v lbl="BRIEF:ALL02MD">Yuri has mind controlled the population of Los Angeles and is feeding the civilians into his Grinders to fund his Psychic Dominator project. If we can eliminate the Grinders, Yuri will have lost a significant source of funds. 
+ 
+ Objective 1: Destroy all Grinders in the city 
+ Objective 2: Destroy all Yuri buildings 
+ 
+ Hint: Not all civilians have been mind controlled. Some of them may even be able to help us in the coming battle</v>
+  <v lbl="BRIEF:ALL03MD">Now that we've destroyed Yuri's primary source of funds, the madman has decided to take a more direct approach. Yuri has set up a Nuclear Silo in Seattle and is using it to extort money and technical expertise from the MassiveSoft corporation. We must save the city and MassiveSoft from Yuri's nuclear threat. 
+ 
+ Objective 1: Destroy Yuri's Nuclear Silo 
+ Objective 2: Liberate the MassiveSoft campus</v>
+  <v lbl="Brief:All04md">Yuri has captured Einstein in an attempt to expedite the completion of his Psychic Dominator Technology. It is imperative we rescue Einstein immediately and then rid Egypt of all Yuri forces. 
+ 
+ Objective 1: Destroy Bio Reactors around Great Pyramid to rescue Einstein. 
+ Objective 2: Destroy Yuri's Base.</v>
+  <v lbl="Brief:All05md">Yuri has established cloning facilities in Sydney, Australia. It is believed he plans to clone the world leaders. We must put an end to this operation at any cost. 
+ 
+ Objective 1: Find and destroy Yuri's Cloning Vats. 
+ Objective 2: Destroy Yuri's remaining forces.</v>
+  <v lbl="BRIEF:ALL07MD">It's almost over, Commander. Yuri's plot lies in ruins. However, he still has one last Psychic Dominator located somewhere in his stronghold in Antarctica. Bring the abandoned Soviet Base on Tierra del Fuego back online and build a radar dish so that we can pinpoint Yuri's exact location. Then, with the combined might of Allied and Soviet forces, put an end to Yuri's plans once and for all. 
+ 
+ Objective 1: Build a Soviet Radar Dish 
+ Objective 2: Destroy the Psychic Dominator in Antarctica 
+ Objective 3: Destroy all Yuri forces</v>
+  <v lbl="Brief:Sov04md">Premier Romanov has been shot down by Yuri's forces. We must locate the Premier and take him to the airport so he can be rescued. Yuri has built a tough defense around the airport that we need to eliminate before the Premier's rescue will be secure. 
+ 
+ Objective 1: Locate Premier Romanov and protect him. 
+ Objective 2: Destroy Yuri's base guarding the airport. 
+ Objective 3: Take Romanov to the airport once it is safe.</v>
+  <v lbl="Brief:Sov06md">Yuri plans to launch himself to the moon after initiating his Psychic Dominator wave over earth. We need to install a base on the moon so we can build an attack force capable of destroying Yuri's moon bases and his Lunar Command Center. 
+ 
+ Objective 1: Find a location to build a base. 
+ Objective 2: Locate and Destroy Yuri's Lunar Command Center. 
+ Objective 3: Destroy Yuri's remaining base.</v>
+  <v lbl="Brief:All06md">Having failed to clone the world leaders, Yuri plans to capture the real ones. Defend them at the Houses of Parliament in London, England...then deal with Yuri. 
+ 
+ Objective 1: Defend Parliament from assault. 
+ Objective 2: Destroy Yuri's Base.</v>
+  <v lbl="Brief:Sov01md">The world is in ruin. Yuri is poised to rule unchallenged. Only a daring Allied plan to travel back in time stands between Yuri and total domination. But Yuri must pay for his betrayal at Soviet hands, not Allied. We must capture the Time Machine and travel back ourselves. 
+ 
+ Objective 1: Destroy the Allied Navy and Grand Cannons. 
+ Objective 2: Destroy Pill Boxes around Time Machine to capture it. 
+ Objective 3: Capture 4 Power Plants to Power Time Machine. 
+ Objective 4: Take Control of Soviet Base and use it to Destroy the Psychic Dominator.</v>
+  <v lbl="Brief:Sov03md">The Allies have discovered a Psychic Dominator in London, England. Yuri has taken control of the Allied strike force to help defend his near-complete Dominator. Free the Allies and join forces with them to defeat Yuri...but beware, the Dominator could become operational at any moment. 
+ 
+ Objective 1: Destroy the Psychic Beacon. 
+ Objective 2: Destroy the Psychic Dominator. 
+ Objective 3: Finish off Yuri's forces.</v>
+  <v lbl="Brief:Sov02md">We lost the battle here in the Black Forest the first time around and were eventually defeated by the Allies with the help of Einstein's Chronosphere. This time, we must not fail. Destroy Einstein's Laboratory and Chronosphere to ensure Soviet victory in our war against the Allies. 
+ 
+ Objective 1: Destroy the outposts guarding the German border. 
+ Objective 2: Destroy Einstein's Laboratory and Chronosphere.</v>
+  <v lbl="Brief:Sov07md">Hoping to hide from your onslaught, Yuri has retreated to his ancestral home in Transylvania. We can not allow him any respite or he will only rally his forces and return again to threaten us all. Eliminate Yuri now and forever! 
+ 
+ Objective 1: Destroy Yuri's Fortress.</v>
+  <v lbl="Brief:Sov05md">We have uncovered Yuri's secret Submarine Base on an uncharted island in the Pacific Ocean. The threat of Yuri's Boomer Subs must be neutralized! 
+ 
+ Objective 1: Pick a landing zone and construct a base. 
+ Objective 2: Locate and destroy Yuri's Submarine Pen. 
+ Objective 3: Finish off all remaining Yuri forces.</v>
+  <v lbl="LoadMsg:Sov01">Operation: Red Dawn - Location: Washington DC</v>
+  <v lbl="LoadMsg:Sov02">Operation: Hostile Shore - Location: Florida Coast</v>
+  <v lbl="LoadMsg:Sov03">Operation: Big Apple - Location: New York City</v>
+  <v lbl="LoadMsg:Sov04">Operation: Home Front - Location: Vladivostok</v>
+  <v lbl="LoadMsg:Sov05">Operation: City of Lights - Location: Paris, France</v>
+  <v lbl="LoadMsg:Sov06">Operation: Sub-Divide - Location: Pearl Harbor, Hawaii</v>
+  <v lbl="LoadMsg:Sov07">Operation: Chrono Defense - Location: Ural Mountains, Russia</v>
+  <v lbl="LoadMsg:Sov08">Operation: Desecration - Location: Washington DC</v>
+  <v lbl="LoadMsg:Sov09">Operation: The Fox and the Hound - Location: San Antonio, Texas</v>
+  <v lbl="LoadMsg:Sov10">Operation: Weathered Alliance - Location: US Virgin Islands</v>
+  <v lbl="LoadMsg:Sov11">Operation: Red Revolution - Location: Moscow</v>
+  <v lbl="LoadMsg:Sov12">Operation: Polar Storm - Location: Point Hope, Alaska</v>
+  <v lbl="LoadMsg:ALL01">Operation: Lone Guardian - Location: New York</v>
+  <v lbl="LoadMsg:ALL02">Operation: Eagle Dawn - Location: Air Force Academy, Colorado</v>
+  <v lbl="LoadMsg:ALL03">Operation: Hail to the Chief - Location: Washington DC</v>
+  <v lbl="LoadMsg:ALL04">Operation: Last Chance - Location: Chicago</v>
+  <v lbl="LoadMsg:ALL05">Operation: Dark Night - Location: Polish/German Border</v>
+  <v lbl="LoadMsg:ALL06">Operation: Liberty - Location: Washington DC</v>
+  <v lbl="LoadMsg:ALL07">Operation: Deep Sea - Location: Pearl Harbor, Hawaii</v>
+  <v lbl="LoadMsg:ALL08">Operation: Free Gateway - Location: Saint Louis, Missouri</v>
+  <v lbl="LoadMsg:ALL09">Operation: Sun Temple - Location: Tulum, Mexico</v>
+  <v lbl="LoadMsg:ALL10">Operation: Mirage - Location: Black Forest, Germany</v>
+  <v lbl="LoadMsg:ALL11">Operation: Fallout - Location: Florida Keys</v>
+  <v lbl="LoadMsg:ALL12">Operation: Chrono Storm - Location: Moscow</v>
+  <v lbl="LoadMsg:TRN01">Operation: Basic Battle Training - Location: Top Secret</v>
+  <v lbl="LoadMsg:TRN02">Operation: Advanced Battle Training - Location: Top Secret</v>
+  <v lbl="LoadMsg:All01md">Operation: Time Lapse - Location: San Francisco, California</v>
+  <v lbl="LoadMsg:All02md">Operation: Hollywood and Vain - Location: Los Angeles, California</v>
+  <v lbl="LoadMsg:All03md">Operation: Power Play - Location: Seattle, Washington</v>
+  <v lbl="LoadMsg:All04md">Operation: Tomb Raided - Location: Egypt</v>
+  <v lbl="LoadMsg:All05md">Operation: Clones Down Under - Location: Sydney, Australia</v>
+  <v lbl="LoadMsg:All07md">Operation: Brain Dead - Location: Antarctica</v>
+  <v lbl="LoadMsg:Sov04md">Operation: Romanov on the Run - Location: Morocco</v>
+  <v lbl="LoadMsg:Sov06md">Operation: To the Moon - Location: The Moon</v>
+  <v lbl="LoadMsg:All06md">Operation: Trick or Treaty - Location: London, England</v>
+  <v lbl="LoadMsg:Sov03md">Operation: Brain Wash - Location: London, England</v>
+  <v lbl="LoadMsg:Sov05md">Operation: Escape Velocity - Location: An uncharted island in the Pacific Ocean</v>
+  <v lbl="LoadMsg:Sov02md">Operation: Deja Vu - Location: Black Forest, Germany</v>
+  <v lbl="LoadMsg:Sov01md">Operation: Time Shift - Location: San Francisco, California</v>
+  <v lbl="LoadMsg:Sov07md">Operation: Head Games - Location: Transylvania</v>
+  <v lbl="LoadBrief:Sov01">Objective 1: Destroy the Pentagon.</v>
+  <v lbl="LoadBrief:Sov02">Objective 1: Force a landing and set up a base. 
+ Objective 2: Destroy all enemy forces.</v>
+  <v lbl="LoadBrief:Sov03">Objective 1: Capture the American Battle Lab. 
+ Objective 2: Build and defend a Psychic Beacon.</v>
+  <v lbl="LoadBrief:Sov04">Objective 1: Establish a base. Defend the homeland. 
+ Objective 2: Destroy all enemy forces.</v>
+  <v lbl="LoadBrief:Sov05">Objective 1: Energize the PARIS TOWER with 3 TESLA TROOPERS. 
+ Objective 2: Defend the PARIS TOWER from Allied attack. 
+ Objective 3: Defeat all remaining Allied troops.</v>
+  <v lbl="LoadBrief:Sov06">Objective 1: Establish a base in the Hawaiian Islands. 
+ Objective 2: Destroy the Allied Navy.</v>
+  <v lbl="LoadBrief:Sov07">Objective 1: Defend your Battle Lab at all costs.</v>
+  <v lbl="LoadBrief:Sov08">Objective 1: Capture the White House.</v>
+  <v lbl="LoadBrief:Sov09">Objective 1: Use Mind-Control to capture the President.</v>
+  <v lbl="LoadBrief:Sov10">Objective 1: Capture the American Battle Lab to locate the Weather Control Device. 
+ Objective 2: Destroy the Weather Control Device.</v>
+  <v lbl="LoadBrief:Sov11">Objective 1: Destroy Yuri's headquarters - The Kremlin.</v>
+  <v lbl="LoadBrief:Sov12">Objective 1: Destroy the Chronosphere.</v>
+  <v lbl="LoadBrief:ALL01">Objective 1: Destroy the Soviet Dreadnought fleet. 
+ Objective 2: Make contact with Fort Bradley. 
+ Objective 3: Keep Tanya alive.</v>
+  <v lbl="LoadBrief:ALL02">Objective 1: Re-capture the Air Force Academy Chapel. 
+ Objective 2: Destroy all Soviet forces. 
+ Objective 3: Keep Tanya alive.</v>
+  <v lbl="LoadBrief:ALL03">Objective 1: Destroy the Psychic Beacon.</v>
+  <v lbl="LoadBrief:ALL04">Objective 1: Force a shore landing and establish a base. 
+ Objective 2: Destroy the Psychic Amplifier before it comes online.</v>
+  <v lbl="LoadBrief:ALL05">Objective 1: Infiltrate the Soviet Battle Lab. 
+ Objective 2: Neutralize the 2 Soviet Nuclear Missile Silos. 
+ Objective 3: Keep Tanya alive.</v>
+  <v lbl="LoadBrief:ALL06">Objective 1: Reinforce and assume command of Allied forces at the Pentagon. 
+ Objective 2: Destroy all Soviet forces in Washington.</v>
+  <v lbl="LoadBrief:ALL07">Objective 1: Destroy all Soviet forces.</v>
+  <v lbl="LoadBrief:ALL08">Objective 1: Destroy the Soviet Psychic Beacon. 
+ Objective 2: Destroy all Soviet forces within St. Louis. 
+ Objective 3: Don't get Tanya killed.</v>
+  <v lbl="LoadBrief:ALL09">Objective 1: Capture or Destroy any Soviet attempts to replicate our Prism Technology. 
+ Objective 2: Eradicate the Soviet base defending their research site.</v>
+  <v lbl="LoadBrief:ALL10">Objective 1: Ensure the safety of Professor Einstein's laboratory. 
+ Objective 2: Destroy all Soviet forces.</v>
+  <v lbl="LoadBrief:ALL11">Objective 1: Build a Chronosphere. 
+ Objective 2: Neutralize the Soviet Nuclear threat on Cuba.</v>
+  <v lbl="LoadBrief:ALL12">Objective 1: Clear the area so Chrono Reinforcements can arrive. 
+ Objective 2: Eliminate Romanov's Elite Black Guard around the Kremlin.</v>
+  <v lbl="LoadBrief:British">The British Sniper can easily eliminate enemy infantry at great ranges.</v>
+  <v lbl="LoadBrief:USA">The USA has the best paratroopers in the world. Build an Airforce Command Center to drop paratroopers anywhere on the battlefield.</v>
+  <v lbl="LoadBrief:French">The French Grand Cannon is the ultimate defensive gun, firing at long range for massive damage.</v>
+  <v lbl="LoadBrief:Germans">The German Tank Destroyer can easily eliminate enemy vehicles. Its advanced armor-piercing gun is weak against enemy infantry and structures.</v>
+  <v lbl="LoadBrief:Korea">The Black Eagles are the most dangerous fighter pilots in the world. Korean forces are always well protected by these deadly air men and their lethal fighter-bombers.</v>
+  <v lbl="LoadBrief:Russia">Russian Tesla Tanks fire a short range Tesla Bolt that can short circuit enemy vehicles and even arc over enemy walls.</v>
+  <v lbl="LoadBrief:Cuba">The Cuban terrorist is a fanatic for the Soviet cause and will actually carry a bomb right up to the enemy before detonating it, destroying himself and anything nearby.</v>
+  <v lbl="LoadBrief:Lybia">The Libyan Demolition Truck self-destructs on an enemy target, setting off a small nuclear bomb.</v>
+  <v lbl="LoadBrief:Iraq">The Iraqi Desolator can poison land with toxic radiation or annihilate enemy troops with his powerful Rad-Cannon.</v>
+  <v lbl="LoadBrief:YuriCountry">Yuri uses mind-control and genetic mutation to corrupt the battlefield. His special units can seize the forces and structures of his enemies.</v>
+  <v lbl="LoadBrief:All01md">Objective 1: Capture Power Plants to power the Time Machine 
+ Objective 2: Defend the Time Machine 
+ Objective 3: Destroy the Psychic Dominator on Alcatraz</v>
+  <v lbl="LoadBrief:All02md">Objective 1: Destroy all Grinders in the city 
+ Objective 2: Destroy all Yuri buildings 
+ 
+ Hint: Not all civilians have been mind controlled. Some of them may even be able to help us in the coming battle</v>
+  <v lbl="LoadBrief:All03md">Objective 1: Destroy Yuri's Nuclear Silo 
+ Objective 2: Liberate the MassiveSoft campus</v>
+  <v lbl="LoadBrief:All07md">Objective 1: Build a Soviet Radar Dish 
+ Objective 2: Destroy the Psychic Dominator in Antarctica 
+ Objective 3: Destroy all Yuri forces</v>
+  <v lbl="LoadBrief:All06md">Objective 1: Defend Parliament from assault. 
+ Objective 2: Destroy Yuri's Base.</v>
+  <v lbl="LoadBrief:Sov01md">Objective 1: Destroy the Allied Navy and Grand Cannons. 
+ Objective 2: Destroy Pill Boxes around Time Machine to capture it. 
+ Objective 3: Capture 4 Power Plants to Power Time Machine. 
+ Objective 4: Take Control of Soviet Base and use it to Destroy the Psychic Dominator.</v>
+  <v lbl="LoadBrief:Sov03md">Objective 1: Destroy the Psychic Beacon. 
+ Objective 2: Destroy the Psychic Dominator. 
+ Objective 3: Finish off Yuri's forces.</v>
+  <v lbl="LoadBrief:Sov05md">Objective 1: Pick a landing zone and construct a base. 
+ Objective 2: Locate and destroy Yuri's Submarine Pen. 
+ Objective 3: Finish off all remaining Yuri forces.</v>
+  <v lbl="LoadBrief:All04md">Objective 1: Destroy Bio Reactors at Great Pyramid to rescue Einstein. 
+ Objective 2: Destroy Yuri's Base.</v>
+  <v lbl="LoadBrief:All05md">Objective 1: Find and destroy Yuri's Cloning Facilities. 
+ Objective 2: Destroy Yuri's remaining forces.</v>
+  <v lbl="LoadBrief:Sov02md">Objective 1: Destroy the outposts guarding the German border. 
+ Objective 2: Destroy Einstein's Laboratory and Chronosphere</v>
+  <v lbl="LoadBrief:Sov04md">Objective 1: Locate Premier Romanov and protect him. 
+ Objective 2: Destroy Yuri's base guarding the airport. 
+ Objective 3: Take Romanov to the airport once it is safe.</v>
+  <v lbl="LoadBrief:Sov06md">Objective 1: Find a location to build a base. 
+ Objective 2: Locate and Destroy Yuri's Lunar Command Center. 
+ Objective 3: Destroy Yuri's remaining base.</v>
+  <v lbl="LoadBrief:Sov07md">Objective 1: Destroy Yuri's Fortress.</v>
+  <v lbl="LoadBriefShort:British">Britain can train SNIPERS.</v>
+  <v lbl="LoadBriefShort:USA">America can use PARADROPS.</v>
+  <v lbl="LoadBriefShort:French">France can build the GRAND CANNON.</v>
+  <v lbl="LoadBriefShort:Germans">Germany can build TANK DESTROYERS.</v>
+  <v lbl="LoadBriefShort:Korea">Korea can build the BLACK EAGLE.</v>
+  <v lbl="LoadBriefShort:Russia">Russia can build TESLA TANKS.</v>
+  <v lbl="LoadBriefShort:Cuba">Cuba can train TERRORISTS.</v>
+  <v lbl="LoadBriefShort:Lybia">Libya can build DEMOLITION TRUCKS.</v>
+  <v lbl="LoadBriefShort:Iraq">Iraq can train DESOLATORS.</v>
+  <v lbl="LoadBriefShort:YuriCountry">Yuri has own tech tree.</v>
+
+  <v lbl="Mission:ExtremeHam">Extreme Ham</v>
+  <v lbl="MISSION:Objective1">Objective 1 Complete</v>
+  <v lbl="MISSION:Objective2">Objective 2 Complete</v>
+  <v lbl="MISSION:Objective3">Objective 3 Complete</v>
+  <v lbl="MISSION:TRN01a">Objective 1: Assign your infantry to enter the Psychic Isolation Chamber to save Premier Yuri, ATTENTION: DO NOT DESTROY THE CHAMBER.</v>
+  <v lbl="MISSION:TRN01b">ATTENTION: Premier Yuri came out, keep him safe.</v>
+  <v lbl="MISSION:TRN01c">MCV received, ready to build the base.</v>
+  <v lbl="MISSION:TRN01d">Reinforcements have arrived, waiting for your orders.</v>
+  <v lbl="MISSION:TRN01e">Objective 4: Send Premier Yuri to the helicopter and get out from here.</v>
+  <v lbl="MISSION:TRN01f">Satellite has reconnected.</v>
+  <v lbl="MISSION:TRN01g">HINT: Repair the bridge so that our forces can go and pass.</v>
+  <v lbl="MISSION:TRN01h">There's no ore or gems here, capture the OIL DERRICK to acquire resources.</v>
+  <v lbl="MISSION:TRN01i">Objective 3: Capture and activate the Psychic Beacon.</v>
+  <v lbl="MISSION:TRN01j">MCV is sighted! Go for it right now!</v>
+  <v lbl="MISSION:TRN01k">Repair the abandoned Psychic Beacon.</v>
+  <v lbl="MISSION:TRN02b">Objective 1: Capture the Allied Battle Lab, and control the Rocket Launch Pad.</v>
+  <v lbl="MISSION:TRN02c">General, here's an open space, you can land here and build the base.</v>
+  <v lbl="MISSION:TRN02d">Elite naval forces have arrived, awaiting orders.</v>
+  <v lbl="MISSION:TRN02e">ALERT: Allied Battle Lab is destroyed, we lost control of the rocket.</v>
+  <v lbl="MISSION:TRN02f">ALERT: Launch Pad structure lost. Mission Failed.</v>
+  <v lbl="MISSION:TRN02g">Objective 2: Destroy all enemy Allied forces.</v>
+  <v lbl="MISSION:TRN02h">Objective 1 Completed.</v>
+  <v lbl="MISSION:TRN02i">WARNING: Soviet naval forces detected.</v>
+  <v lbl="MISSION:TRN02_Hint1">Deploy your GIs near the entrance to your base for a better defense</v>
+  <v lbl="MISSION:TRN02_Hint2">The Premier successfully retreated. Mission Accomplished.</v>
+  <v lbl="MISSION:TRN02_Hint3">Now is not the time for potty breaks, Commander</v>
+  <v lbl="MISSION:TRN02_Hint4">No time to sit, Commander</v>
+  <v lbl="MISSION:TRN02hAlt">WARNING: The stench of Red Team is in the air</v>
+  <v lbl="MISSION:ALL01a">Objective 1: Destroy all four Soviet DREADNOUGHTS</v>
+  <v lbl="MISSION:ALL01b">Objective 2: Rendezvous with FORT BRADLEY</v>
+  <v lbl="MISSION:ALL01c">HINT: Order your GI's to enter CIVILIAN BUILDINGS to fortify them</v>
+  <v lbl="MISSION:ALL01d">HINT: Fuel barrels explode if destroyed</v>
+  <v lbl="MISSION:ALL01e">HINT: Your base is out of power, build more power plants</v>
+  <v lbl="MISSION:ALL01f">HINT: Construct a BARRACKS in order to produce ENGINEERS to repair the bridge</v>
+  <v lbl="MISSION:ALL01g">HINT: GI's must DEPLOY to enter or exit their sandbagged foxholes</v>
+  <v lbl="MISSION:ALL01h">Objective 3: Destroy the Soviet SUPPLY BASE</v>
+  <v lbl="MISSION:ALL01i">WARNING: Soviet PARATROOPERS are incoming</v>
+  <v lbl="MISSION:ALL02a">Head NORTH and make contact with American forces</v>
+  <v lbl="MISSION:ALL02b">Objective 1: Use ENGINEERS to re-capture our base to the NORTH WEST</v>
+  <v lbl="MISSION:ALL02c">Objective 2: Destroy all hostile forces</v>
+  <v lbl="MISSION:ALL02d">HINT: Order an ENGINEER into any HOSTILE BUILDING to capture the building</v>
+  <v lbl="MISSION:ALL02e">HINT: Order TANYA to destroy the FLAK CANNONS</v>
+  <v lbl="MISSION:ALL02f">HINT: TANYA can swim</v>
+  <v lbl="MISSION:All04a">Objective 1: Clear enemy shore defenses with your Destroyers, then land and establish a base</v>
+  <v lbl="MISSION:All04b">Objective 2: Destroy the Soviet's Psychic Amplifier before it comes online</v>
+  <v lbl="MISSION:All04c">Estimated time until Psychic Amplifier is online:</v>
+  <v lbl="MISSION:All09a">Objective 1: Capture or Eliminate Soviet Research Facility within the Pyramid Ruins</v>
+  <v lbl="MISSION:All09b">Objective 2: Destroy the Soviet base</v>
+  <v lbl="MISSION:All09c">Objective 1 Accomplished</v>
+  <v lbl="MISSION:All09d">Objective 2 Accomplished</v>
+  <v lbl="MISSION:Sov01a">Objective 1: Destroy the Pentagon</v>
+  <v lbl="MISSION:Sov1b">HINT: Order an ENGINEER into the BRIDGE HUT to repair the bridge</v>
+  <v lbl="MISSION:Sov1c">HINT: Order your CONSCRIPTS to enter CIVILIAN BUILDINGS to fortify them</v>
+  <v lbl="MISSION:Sov1d">HINT: FLAK TRACKS can carry TROOPS into battle</v>
+  <v lbl="MISSION:Sov1e">HINT: Your base is OUT OF POWER, build Power Plants</v>
+  <v lbl="MISSION:Sov1f">HINT: Fuel barrels EXPLODE if destroyed</v>
+  <v lbl="MISSION:Sov1g">HINT: Capture the AIRPORT with an ENGINEER to allow your paratroopers to land in the area</v>
+  <v lbl="MISSION:Sov02a">Objective 1: Force a beach landing and build a base</v>
+  <v lbl="MISSION:Sov02b">Objective 2: Destroy all enemy forces</v>
+  <v lbl="MISSION:Sov02c">Vladimir: Now is the time to strike</v>
+  <v lbl="MISSION:Sov02d">Vladimir: What are you waiting for General? Do something!</v>
+  <v lbl="MISSION:Sov02e">Enemy Fleet detected</v>
+  <v lbl="MISSION:Sov02f">Vladimir has fled the battlefield!</v>
+  <v lbl="MISSION:Sov02g">Your Mobile Construction Vehicle has landed. Double-click on it to create a Construction Yard</v>
+  <v lbl="MISSION:Sov03a">Objective 1: Capture the Allied BATTLE LAB with an ENGINEER</v>
+  <v lbl="MISSION:Sov03b">Technology gained - Build a PSYCHIC BEACON</v>
+  <v lbl="MISSION:Sov03bb">Technology gained - PSYCHIC BEACON placed</v>
+  <v lbl="MISSION:Sov03c">Objective 2: Defend the PSYCHIC BEACON from Allied attack</v>
+  <v lbl="MISSION:Sov03d">Beacon Deployment in:</v>
+  <v lbl="MISSION:Sov03e">Allied troops are now under Soviet control</v>
+  <v lbl="MISSION:Sov03f">Objective 3: Defeat all remaining Allied troops</v>
+  <v lbl="MISSION:Sov04a">Time until Allied invasion begins:</v>
+  <v lbl="MISSION:Sov04b">Hint: Build Flak Cannons to engage Allied aircraft</v>
+  <v lbl="MISSION:Sov04c">Allied Forces have landed!</v>
+  <v lbl="MISSION:Sov04d">Objective 1: Establish a base to defend our motherland</v>
+  <v lbl="MISSION:Sov04e">Objective 2: Drive the Allied invaders back into the sea</v>
+  <v lbl="MISSION:Sov05a">Objective 1: Energize the PARIS TOWER with 3 TESLA TROOPERS</v>
+  <v lbl="MISSION:Sov05b">Objective 2: Defend the PARIS TOWER from Allied attack</v>
+  <v lbl="MISSION:Sov05c">Objective 3: Defeat all remaining Allied troops</v>
+  <v lbl="MISSION:Sov05d">HINT: Cars + Bombs = CarBombs!</v>
+  <v lbl="MISSION:Sov06b">Estimated time until Korean Fleet arrives:</v>
+  <v lbl="MISSION:Sov07a">Objective 1: Defend your Battle Lab against waves of Allied attackers</v>
+  <v lbl="MISSION:Sov07b">General Carville has stationed a truck near one of our villages; He has been broadcasting capitalist propaganda in an attempt to turn our people against us</v>
+  <v lbl="MISSION:Sov07c">I think we should send a few dogs to sniff out enemy spies</v>
+  <v lbl="MISSION:Sov07d">The first wave of Allied troops have entered the Chronosphere</v>
+  <v lbl="MISSION:Sov07e">Another Allied force has entered the Chronosphere</v>
+  <v lbl="MISSION:Sov07f">The final Allied troops have entered the Chronosphere</v>
+  <v lbl="MISSION:Sov07g">You've captured a powerful new enemy vehicle! Try putting different infantry inside to enhance the vehicle's abilities</v>
+  <v lbl="MISSION:Sov07h">CRITICAL STRUCTURE LOST: Our Battle Lab has been captured</v>
+  <v lbl="MISSION:Sov07i">CRITICAL STRUCTURE LOST: Spies have infiltrated our Battle Lab</v>
+  <v lbl="MISSION:Sov07j">CRITICAL STRUCTURE LOST: Our Battle Lab has been destroyed</v>
+  <v lbl="MISSION:Sov08a">Objective 1: Capture the White House so we can apprehend the traitor Vladimir</v>
+  <v lbl="MISSION:Sov08b">Destroy monuments for cash bonuses from the Kremlin!</v>
+  <v lbl="MISSION:Sov09a">Objective 1: Use Mind-Control to capture the President</v>
+  <v lbl="MISSION:Sov09b">Use America's own soldiers against them</v>
+  <v lbl="MISSION:Sov09c">Enemy bases detected</v>
+  <v lbl="MISSION:Sov09d">Order spies to enter power plants to sabotage base power</v>
+  <v lbl="MISSION:Sov10a">Objective 1: Capture the BATTLE LAB with an ENGINEER</v>
+  <v lbl="MISSION:Sov12a">Build naval forces and invade the Allied base</v>
+  <v lbl="MISSION:Sov12b">Move north and reclaim our captured Kirov airships</v>
+  <v lbl="MISSION:Sov12c">Objective 1: Destroy the Allied CHRONOSPHERE</v>
+  <v lbl="MISSION:All12a">Objective 1: Clear the area so Chrono Reinforcements can arrive</v>
+  <v lbl="MISSION:All12b">Objective 2: Eliminate Romanov's Elite Black Guard around the Kremlin.</v>
+  <v lbl="MISSION:All12c">Objective 2 Accomplished - Romanov has been captured</v>
+  <v lbl="MISSION:All12d">Objective 1 Accomplished - Chrono Reinforcements can now arrive</v>
+  <v lbl="MISSION:All12e">Alliance formed with Soviet Defectors</v>
+  <v lbl="MISSION:All12f">Soviet resource stockpile detected</v>
+  <v lbl="MISSION:All12g">Allied chrono reinforcements in transit, arriving soon</v>
+  <v lbl="MISSION:TRN01cc">Move your troops across the bridge</v>
+  <v lbl="MISSION:TRN02iAlt">Objective 2: Deploy your MCV into a Construction Yard</v>
+  <v lbl="MISSION:ALL01j">Secondary Objective Complete</v>
+  <v lbl="MISSION:ALL01k">New Objective Received</v>
+  <v lbl="MISSION:ALL01l">HINT: Seals can SWIM and PLANT C4 like Tanya</v>
+  <v lbl="MISSION:ALL01m">HINT: Cars can be used to CARRY INFANTRY. To remove passengers, double-click on the car</v>
+  <v lbl="MISSION:ALL01n">HINT: Chrono Harvesters HARVEST ore and then automatically TELEPORT back to their refinery</v>
+  <v lbl="MISSION:ALL01o">HINT: Select the infantry TAB to view additional PRODUCTION OPTIONS</v>
+  <v lbl="MISSION:ALL01p">HINT: Order your ENGINEER into one of the REPAIR HUTS in order to fix the bridge</v>
+  <v lbl="MISSION:ALL01q">--Battle Control Online--</v>
+  <v lbl="MISSION:ALL01r">Additional troops gained</v>
+  <v lbl="MISSION:ALL01s">HINT: To REMOVE your troops, DOUBLE-CLICK on the occupied building</v>
+  <v lbl="MISSION:ALL01t">HINT: DOUBLE-CLICK the GI's to switch them between DEPLOYED and MOBILE states</v>
+  <v lbl="MISSION:ALL01u">These GI's have deployed their heavy machine guns.</v>
+  <v lbl="MISSION:ALL01v">Tanya has died - CRITICAL UNIT LOST</v>
+  <v lbl="MISSION:ALL01w">The STATUE OF LIBERTY has been destroyed - CRITICAL STRUCTURE LOST</v>
+  <v lbl="MISSION:ALL01x">The STATUE OF LIBERTY is about to be destroyed - Hurry and destroy the Dreadnoughts!</v>
+  <v lbl="MISSION:ALL01y">HINT: To REMOVE your troops, SELECT the occupied building, then click on it again.</v>
+  <v lbl="MISSION:ALL02g">Keep TANYA alive!</v>
+  <v lbl="MISSION:ALL02h">TANYA has been KILLED!</v>
+  <v lbl="MISSION:ALL02i">so the ROCKETEERS can destroy the SENTRY GUNS</v>
+  <v lbl="MISSION:All03a">Objective 1: Destroy the Psychic Beacon</v>
+  <v lbl="MISSION:All03b">You have salvaged Allied units abandoned after the Soviet invasion</v>
+  <v lbl="MISSION:All03c">HINT: Beware of SOVIET TROOPS garrisoned in CIVILIAN STRUCTURES</v>
+  <v lbl="MISSION:All03d">HINT: Be careful NOT to destroy the White House... we don't want to endanger the President</v>
+  <v lbl="MISSION:All03e">MISSION FAILED: Nice job commander. You've managed to crush the President under a huge slab of concrete...</v>
+  <v lbl="MISSION:All03f">HINT: Send an ENGINEER into a damaged CIVILIAN STRUCTURE to repair it</v>
+  <v lbl="MISSION:All03g">HINT: Try putting different INFANTRY in your new IFV to use its morphing ability</v>
+  <v lbl="MISSION:All03h">MISSION FAILED: President Dugan is but a flattened shell of a man</v>
+  <v lbl="MISSION:All03i">Straggler units from across the Potomac have gathered up near the Lincoln Memorial</v>
+  <v lbl="MISSION:All03j">A brave group of Allied survivors has scraped together a squad near the Smithsonian</v>
+  <v lbl="MISSION:All03k">HINT: Order an ENGINEER into an IFV to transform it into a Mobile Repair Vehicle</v>
+  <v lbl="MISSION:All04d">Reinforcements have just arrived from our Canadian base</v>
+  <v lbl="MISSION:All04e">More reinforcements have just arrived from across Lake Michigan</v>
+  <v lbl="MISSION:All04f">HINT: Enemy SUB PATROLS are all over Lake Michigan. Land your transports quickly to avoid losses</v>
+  <v lbl="MISSION:All04g">Objective 2: Destroy the Psychic Amplifier before it comes online</v>
+  <v lbl="MISSION:All04h">HINT: Send INFANTRY into the HOSPITAL to restore them to full health</v>
+  <v lbl="MISSION:All04i">HINT: These OIL DERRICKS, if captured, will yield a steady flow of cash</v>
+  <v lbl="MISSION:All04j">Clear the shore defenses with your Destroyers, then land and establish your base</v>
+  <v lbl="MISSION:All05a">Objective 1: Infiltrate the Soviet Battle Lab with a Spy</v>
+  <v lbl="MISSION:All05b">Objective 2: Eliminate the two Soviet Nuclear Missile Silos</v>
+  <v lbl="MISSION:All05c">HINT: SPIES can disguise themselves as ENEMY TROOPS</v>
+  <v lbl="MISSION:All05d">HINT: To disguise a SPY, select him and left click on an ENEMY SOLDIER</v>
+  <v lbl="MISSION:All05e">Tesla Coil detected - CAUTION: EXTREME DANGER</v>
+  <v lbl="MISSION:All05f">Additional Spies have arrived</v>
+  <v lbl="MISSION:All05g">Allied patrol discovered</v>
+  <v lbl="MISSION:All05h">Secondary Objective Complete - NEW OBJECTIVE RECEIVED</v>
+  <v lbl="MISSION:All05i">Primary Objective Complete - MISSION SUCCESSFUL</v>
+  <v lbl="MISSION:All05j">Bovine rescued</v>
+  <v lbl="MISSION:All05k">Tanya has died - CRITICAL UNIT LOST</v>
+  <v lbl="MISSION:All05l">The Battle Lab has been destroyed - CRITICAL STRUCTURE LOST</v>
+  <v lbl="MISSION:All05m">First Nuclear Missile Silo destroyed - one remaining</v>
+  <v lbl="MISSION:All05n">First Nuclear Missile Silo has been captured - one remaining</v>
+  <v lbl="MISSION:All05o">HINT: Send a SPY into a TESLA REACTOR to shut down all base defenses</v>
+  <v lbl="MISSION:All05p">Silo coordinates acquired successfully - Enlarging map size to compensate</v>
+  <v lbl="MISSION:All05q">--Battle Control Online--</v>
+  <v lbl="MISSION:All05r">Somewhere in Poland...</v>
+  <v lbl="MISSION:All05s">Signal Flare Detected</v>
+  <v lbl="MISSION:All07b">WARNING - SOVIET ATTACK IMMINENT</v>
+  <v lbl="MISSION:All08T">Time until Beacon affects Tanya:</v>
+  <v lbl="MISSION:All10a1">HINT: When the MIRAGE TANK stops, it</v>
+  <v lbl="MISSION:All10a2">cloaks itself as a TREE and waits to ambush</v>
+  <v lbl="MISSION:All10a3">passing enemy forces</v>
+  <v lbl="MISSION:All10c">WARNING: Einstein's Laboratory is under attack</v>
+  <v lbl="MISSION:All10e">Objective 2: Destroy all Soviet invaders</v>
+  <v lbl="MISSION:All11d">Objective 1: Construct a Chronosphere</v>
+  <v lbl="MISSION:All12h">Tanya lost</v>
+  <v lbl="MISSION:All12i">Kremlin Infiltrated - PRIMARY OBJECTIVE COMPLETE</v>
+  <v lbl="MISSION:Sov02h">Build a NAVAL YARD so you can construct SUBMARINES</v>
+  <v lbl="MISSION:Sov03aa">HINT: Capture the OIL DERRICKS for extra resources</v>
+  <v lbl="MISSION:Sov06c">A small fleet of the new Soviet Dreadnought has arrived</v>
+  <v lbl="MISSION:Sov06d">A small fleet of the new Soviet Dreadnought has arrived.</v>
+  <v lbl="MISSION:Sov07k">Allied Spy Sat maps were found in the Propaganda Truck wreckage... updating map.</v>
+  <v lbl="MISSION:Sov08c">Destroy monuments for bonuses from the Kremlin!</v>
+  <v lbl="MISSION:Sov08d">Objective 1: Capture the White House</v>
+  <v lbl="MISSION:Sov11a">Objective 1: Destroy the KREMLIN, where YURI is cowering</v>
+  <v lbl="MISSION:Sov11b">WARNING: Enemy air armada detected</v>
+  <v lbl="MISSION:Sov11c">WARNING: Yuri has detected our Nuclear Missile Silo - Defend it well</v>
+  <v lbl="MISSION:Sov11d">HINT: To stop Kirov Airships, build lots of Flak Cannons</v>
+  <v lbl="MISSION:Sov11e">Hey! You're not supposed to be here!</v>
+  <v lbl="MISSION:Sov11f">11/21/98</v>
+  <v lbl="MISSION:Sov11g">Power-up Crate discovered!</v>
+  <v lbl="MISSION:Sov11h">NOX ROX!</v>
+  <v lbl="MISSION:Sov11i">Warning, Iron Curtain device detected</v>
+  <v lbl="MISSION:Sov11j">Warning, the Iron Curtain device has rendered some of Yuri's troops invulnerable</v>
+  <v lbl="MISSION:Sov11k">TSC&amp;ACC</v>
+  <v lbl="MISSION:Sov11l">WARNING: Enemy Armor Brigade detected</v>
+  <v lbl="MISSION:Sov11m">WARNING: Enemy Infantry Platoon detected</v>
+  <v lbl="MISSION:Sov11n">WARNING: Enemy Naval Fleet detected</v>
+  <v lbl="MISSION:All06a1">Objective 1: Reinforce and take command</v>
+  <v lbl="MISSION:All06a2">of Allied forces near the Pentagon</v>
+  <v lbl="MISSION:All06b1">Objective 2: Eliminate all Soviet forces</v>
+  <v lbl="MISSION:All06b2">occupying Washington, DC</v>
+  <v lbl="MISSION:All06c1">HINT: The SERVICE DEPOT can safely remove</v>
+  <v lbl="MISSION:All06c2">Soviet TERROR DRONES from infected vehicles</v>
+  <v lbl="MISSION:All06d1">Pentagon forces transferred to your command</v>
+  <v lbl="MISSION:All06d2">Objective 1 Accomplished</v>
+  <v lbl="MISSION:All07a1">Objective 1: Destroy all Soviet forces</v>
+  <v lbl="MISSION:All07a2">on or around the Hawaiian Islands</v>
+  <v lbl="MISSION:All07c1">HINT: The GAP GENERATOR will conceal your</v>
+  <v lbl="MISSION:All07c2">base from Soviet nuclear attack</v>
+  <v lbl="MISSION:All08a1">Objective 1: Capture or Destroy the</v>
+  <v lbl="MISSION:All08a2">Psychic Beacon before it affects your team</v>
+  <v lbl="MISSION:All08b1">Objective 2: Drive all Soviet forces out</v>
+  <v lbl="MISSION:All08b2">of St. Louis</v>
+  <v lbl="MISSION:All08c1">WARNING: Soviet Desolators have irradiated</v>
+  <v lbl="MISSION:All08c2">the ground at this location</v>
+  <v lbl="MISSION:All08d1">WARNING: The Psychic Beacon has affected</v>
+  <v lbl="MISSION:All08d2">your team</v>
+  <v lbl="MISSION:All10b1">ALERT! Soviet Invasion Forces Detected. ALERT!</v>
+  <v lbl="MISSION:All10d1">Objective 1: Defend Professor Einstein's</v>
+  <v lbl="MISSION:All10d2">Laboratory</v>
+  <v lbl="MISSION:All11a1">HINT: To make SQUID release a ship, you</v>
+  <v lbl="MISSION:All11a2">must force your DOLPHINS to fire on the</v>
+  <v lbl="MISSION:All11a3">AFFECTED SHIP</v>
+  <v lbl="MISSION:All11b1">HINT: The CHRONOSPHERE will teleport all</v>
+  <v lbl="MISSION:All11b2">VEHICLES within a small area across any distance</v>
+  <v lbl="MISSION:All11c1">WARNING: Soviet Nuclear Missiles are now</v>
+  <v lbl="MISSION:All11c2">being armed</v>
+  <v lbl="MISSION:All11e1">Objective 2: Neutralize the Soviet Nuclear</v>
+  <v lbl="MISSION:All11e2">Missile Silos</v>
+  <v lbl="MISSION:All11T">Nuclear Strike in:</v>
+  <v lbl="MISSION:Sov06d1">Use them for long range shore bombardment.</v>
+  <v lbl="MISSION:Sov6a">Objective 1: Establish a base on the Hawaiian Islands</v>
+  <v lbl="MISSION:Sov06g">Objective 2: Destroy the Allied fleet</v>
+  <v lbl="MISSION:Sov07L">Enemy Forces Arriving In:</v>
+  <v lbl="MISSION:Sov1H">Iwo Jima Victory Monument, Washington D.C.</v>
+  <v lbl="MISSION:Sov10d">MISSION CRITICAL STRUCTURE - Do not destroy!</v>
+  <v lbl="MISSION:Sov10b">HINT: Build a NUCLEAR MISSILE SILO</v>
+  <v lbl="MISSION:Sov10c">Objective 2: Destroy the Weather Control Device</v>
+  <v lbl="MISSION:All08e">Bonus Discovered. Timer Extended.</v>
+  <v lbl="MISSION:ALL12y">Special Agent Tanya has arrived.</v>
+  <v lbl="MISSION:ALL12z">Final Objective: Tanya will infiltrate the Kremlin and Capture Romanov</v>
+  <v lbl="MISSION:All03m">HINT: Order GIs into nearby CIVILIAN BUILDINGS to fortify them.</v>
+  <v lbl="MISSION:HINTGENERAL">HINT: Order CONSCRIPTS into nearby CIVILIAN BUILDINGS to fortify them.</v>
+  <v lbl="MISSION:All04k">HINT: AIR UNITS are very effective for assaults on Soviet-occupied civilian structures</v>
+  <v lbl="MISSION:All04l">Objective 1: Establish a base</v>
+  <v lbl="MISSION:ALL11zz">Order a SPY into an enemy NUKE to reset the count down.</v>
+  <v lbl="MISSION:ALL12zz">Romanov must be captured. Don't destroy the Kremlin!</v>
+  <v lbl="MISSION:All04m">Deploy your Mobile Construction Vehicle into a Construction Yard</v>
+  <v lbl="MISSION:GetPower">Objective: Capture Power Plants to bring the Time Machine online</v>
+  <v lbl="MISSION:KillRuss">Objective: Destroy all Soviet tanks</v>
+  <v lbl="MISSION:Alcatraz">Objective: Swim Tanya to Alcatraz Island and destroy the Psychic Dominator</v>
+  <v lbl="MISSION:Soviets">Objective: Clear the area of Soviet forces</v>
+  <v lbl="MISSION:Carriers">Aircraft Carrier reinforcements have arrived</v>
+  <v lbl="MISSION:Seals">SEAL reinforcements have arrived</v>
+  <v lbl="MISSION:TimeText">Time Machine:</v>
+  <v lbl="MISSION:Swim">Hint: Tanya can swim to Alcatraz Island</v>
+  <v lbl="MISSION:GrandC">Hint: Use the Grand Cannons to take out the Nuclear Reactor on Alcatraz</v>
+  <v lbl="MISSION:GrandC2">Hint: Use the Grand Cannons to take out Soviet Dreadnoughts</v>
+  <v lbl="MISSION:Tanya2">Hint: Tanya can plant C4 charges on tanks</v>
+  <v lbl="MISSION:Soviet2">WARNING - Soviet armor battallion detected</v>
+  <v lbl="MISSION:Attack">WARNING - The Time Machine is under attack!</v>
+  <v lbl="MISSION:Attack2">WARNING - Our Power Plants are under attack</v>
+  <v lbl="MISSION:Attack3">WARNING - Do not attack Power Plants!</v>
+  <v lbl="MISSION:GattCann">WARNING - Gattling Cannon detected</v>
+  <v lbl="MISSION:LoseTM">The Time Machine has been destroyed</v>
+  <v lbl="MISSION:LosePowr">There are not enough Power Plants left to charge the Time Machine</v>
+  <v lbl="MISSION:Grinders">Objective: Destroy all Grinders in the city</v>
+  <v lbl="MISSION:YuriBase">Objective: Destroy all enemy buildings</v>
+  <v lbl="MISSION:LAX">Hint: Capture LAX to gain access to paratroopers</v>
+  <v lbl="MISSION:Money">Hint: We may be able to salvage funds from Yuri's Grinders when they are destroyed.</v>
+  <v lbl="MISSION:Heroes">Hint: Action Heroes are excellent against infantry. Use them to eliminate Yuri Clones</v>
+  <v lbl="MISSION:Lose">Your base has been destroyed</v>
+  <v lbl="MISSION:RescueMS">Secondary Objective: Liberate the MassiveSoft Campus from Yuri's goons</v>
+  <v lbl="MISSION:KillNuke">Objective: Destroy Yuri's Nuclear Silo</v>
+  <v lbl="MISSION:RescueEinstein">Objective: Rescue Einstein from Yuri's secret base near the Great Pyramid</v>
+  <v lbl="MISSION:DestroyYuri04A">Objective: Destroy Yuri's main base in the East</v>
+  <v lbl="MISSION:DerrickHint">Hint: Send engineers into the oil derricks in the East to increase cash flow</v>
+  <v lbl="MISSION:BoomerAttack">WARNING - Yuri is sending Boomer subs our way! Prepare for confrontation!</v>
+  <v lbl="MISSION:DestroyCloning">Objective: Destroy Yuri's Cloning facility in the South</v>
+  <v lbl="MISSION:DestroyYuri05A">Objective: Destroy Yuri's remaining forces.</v>
+  <v lbl="MISSION:Fuego">Objective: Use engineers to bring the Soviet base back online</v>
+  <v lbl="MISSION:Radar">Objective: Build a Soviet Radar Dish</v>
+  <v lbl="MISSION:KillPD">Objective: Destroy the Psychic Dominator on Antarctica</v>
+  <v lbl="MISSION:KillYuri">Destroy all of Yuri's structures</v>
+  <v lbl="MISSION:FindRomanov">Objective: Locate Premier Romanov before Yuri's troops do</v>
+  <v lbl="MISSION:RecoverRomanov">Objective: Rescue Romanov from Yuri's control</v>
+  <v lbl="MISSION:DestroyYuri04S">Objective: Destroy Yuri's base around the airport so Romanov can be safely evacuated</v>
+  <v lbl="MISSION:TakeRomanov">Objective: Take Romanov to the airport where he can be transported away safely</v>
+  <v lbl="MISSION:BuildBase">Objective: Find a location to set up base</v>
+  <v lbl="MISSION:DestroyLunarCommand">Objective: Locate and destroy Yuri's Lunar Command Center</v>
+  <v lbl="MISSION:DestroyYuri06S">Objective: Destroy all remaining Yuri buildings</v>
+  <v lbl="MISSION:NukeHint">HINT: Yuri also relies on Power Plants for his Nuclear Silo</v>
+  <v lbl="MISSION:Sniper">Sniper reinforcements arriving</v>
+  <v lbl="MISSION:PowerAtk">WARNING - Our Power Plants are under attack!</v>
+  <v lbl="MISSION:Virus">Hint: Snipers have a longer range than the Virus</v>
+  <v lbl="MISSION:Virus2">Hint: The Virus has a longer range than Snipers</v>
+  <v lbl="MISSION:Cloud">WARNING - Infantry will take damage if standing within a Virus cloud</v>
+  <v lbl="MISSION:LowPower">Capture Power Plants to bring the Weather Control Device online</v>
+  <v lbl="MISSION:Needle">Hint: Garrison the Space Needle to survey the area</v>
+  <v lbl="MISSION:YuriMove">WARNING - Yuri is attempting to engineer our Power Plants</v>
+  <v lbl="MISSION:YuriTimer">Yuri Forces Arriving In:</v>
+  <v lbl="MISSION:ParlHint">Hint: Repair Parliament with an Engineer</v>
+  <v lbl="MISSION:StopYuri">Objective: Destroy all Yuri forces</v>
+  <v lbl="MISSION:MixUnits">Hint: Combine Soviet infantry with our IFV's for more powerful units</v>
+  <v lbl="MISSION:PDHint">Hint: Spread our units out so that the Psychic Dominator won't be able to mind control large masses of our forces.</v>
+  <v lbl="MISSION:GMHint">Hint: Spread out our infantry so that Yuri will not be able to use the Genetic Mutator on large groups of units.</v>
+  <v lbl="MISSION:TmeTimer">Time Machine Recharged in:</v>
+  <v lbl="MISSION:TranHint">Hint: Build Amphibious Transports</v>
+  <v lbl="MISSION:RexyHelp">Rexy is trapped! Won't you help him?</v>
+  <v lbl="MISSION:RexyFrnd">Rexy is now your friend to the end!</v>
+  <v lbl="MISSION:WarnStct">WARNING - Critical structure. Do not destroy!!!</v>
+  <v lbl="MISSION:MoreTrps">More of our troops have arrived on the beach</v>
+  <v lbl="MISSION:MoreEngn">Engineers have arrived near the Time Machine</v>
+  <v lbl="MISSION:YuriPowr">Yuri is trying to capture the Power Plants!</v>
+  <v lbl="MISSION:YGotPowr">Yuri captured a Power Plant!</v>
+  <v lbl="MISSION:HintPowr">Hint: Capture Power Plants with Engineers</v>
+  <v lbl="MISSION:DomArmed">The Psychic Dominator is now armed!!!</v>
+  <v lbl="MISSION:HintDom">Hint: Capturing Power Plants will stop the Psychic Dominator</v>
+  <v lbl="MISSION:YuriHovr">Yuri Hover Transports approaching!</v>
+  <v lbl="MISSION:LostAll">All Soviet forces lost</v>
+  <v lbl="MISSION:NoTroops">No remaining Soviet forces</v>
+  <v lbl="MISSION:LostStct">Critical Structure Lost</v>
+  <v lbl="MISSION:LostUnit">Critical Unit Lost</v>
+  <v lbl="MISSION:WarnArmd">WARNING - The Psychic Dominator is Armed!!!</v>
+  <v lbl="MISSION:WrnAmbsh">WARNING - Possible Ambush Ahead!</v>
+  <v lbl="MISSION:WarnSnpe">WARNING - Sniper detected!</v>
+  <v lbl="MISSION:SecrtLab">Secret Laboratory Acquired!</v>
+  <v lbl="MISSION:ScrtTech">Secret Technology Acquired!</v>
+  <v lbl="MISSION:All6Obj1">Objective 1: Defend Parliament from Assault.</v>
+  <v lbl="MISSION:All6Obj2">Objective 2: Destroy Yuri's Base.</v>
+  <v lbl="MISSION:Sov1Obj1">Objective 1: Destroy the Allied Navy and Grand Cannons.</v>
+  <v lbl="MISSION:Sov1Obj2">Objective 2: Destroy Pill Boxes around Time Machine to capture it.</v>
+  <v lbl="MISSION:Sov1Obj3">Objective 3: Capture 4 Power Plants to Power Time Machine.</v>
+  <v lbl="MISSION:Sov1Obj4">Objective 4: Take Control of Soviet Base and use it to Destroy the Psychic Dominator.</v>
+  <v lbl="MISSION:Sov1Obj5">Objective: Defend the Time Machine until it can be reactivated.</v>
+  <v lbl="MISSION:Sov1Obj6">Find the Soviet Base.</v>
+  <v lbl="MISSION:Sov1Obj7">Destroy the Psychic Dominator.</v>
+  <v lbl="MISSION:Obj1Comp">Objective 1 Complete.</v>
+  <v lbl="MISSION:Obj2Comp">Objective 2 Complete.</v>
+  <v lbl="MISSION:Obj3Comp">Objective 3 Complete.</v>
+  <v lbl="MISSION:Obj4Comp">Objective 4 Complete.</v>
+  <v lbl="MISSION:Obj5Comp">Objective 5 Complete.</v>
+  <v lbl="MISSION:Obj6Comp">Objective 6 Complete.</v>
+  <v lbl="MISSION:Obj7Comp">Objective 7 Complete.</v>
+  <v lbl="MISSION:Obj8Comp">Objective 8 Complete.</v>
+  <v lbl="MISSION:Obj9Comp">Objective 9 Complete.</v>
+  <v lbl="MISSION:Sov2Obj1">Objective 1: Destroy the outposts guarding the German border.</v>
+  <v lbl="MISSION:Sov2Obj2">Objective 2: Destroy Einstein's Lab and Chronosphere.</v>
+  <v lbl="MISSION:Mirage">WARNING - Mirage Tanks spotted!</v>
+  <v lbl="MISSION:MirageHint">Hint: Mirage tanks become visible if they move or fire.</v>
+  <v lbl="MISSION:BattleFortress">WARNING - The Battle Fortress can crush tanks. Destroy them before they can close in.</v>
+  <v lbl="MISSION:IndustrialHint">Hint: Build an Industrial Plant to speed up production.</v>
+  <v lbl="MISSION:SpyPlaneHint">Hint: Use the Spy Plane to uncover shroud.</v>
+  <v lbl="MISSION:Sov3Obj1">Objective 1: Destroy the Psychic Beacon.</v>
+  <v lbl="MISSION:Sov3Obj2">Objective 2: Destroy the Psychic Dominator.</v>
+  <v lbl="MISSION:Sov3Obj3">Objective 3: Finish off Yuri's forces.</v>
+  <v lbl="MISSION:Sov5Obj1">Objective 1: Pick a landing zone and construct a base.</v>
+  <v lbl="MISSION:Sov5Obj2">Objective 2: Locate and destroy Yuri's Submarine Pen.</v>
+  <v lbl="MISSION:Sov5Obj3">Objective 3: Finish off all remaining Yuri land forces.</v>
+  <v lbl="MISSION:MojoTip">Mojo 1</v>
+  <v lbl="MISSION:Clones">HINT: Use attack dogs to deal with Yuri Clones and Initiates</v>
+  <v lbl="MISSION:AllGone">Our forces have been destroyed</v>
+  <v lbl="MISSION:GrabPowr">HINT: Capture Power Plants to bring the Weather Control Device back online</v>
+  <v lbl="MISSION:ReinforcementsAll04md">Reinforcements have arrived and await orders from your base</v>
+  <v lbl="MISSION:RobotTanks">Hint: Robot Tanks are psychic immune</v>
+  <v lbl="MISSION:SniperDiscovered">Look, there was a sniper lost in the desert! He's happy to be a part of your team!</v>
+  <v lbl="MISSION:ImportDino">Thanks to ChronoSphere technology we were able import dinosaurs to help us defeat Yuri!</v>
+  <v lbl="MISSION:Mojo1All04md">You can feel the presence of Mojo One</v>
+  <v lbl="MISSION:ReinforcementsAll05md">Reinforcements have arrived and await orders from your base</v>
+  <v lbl="MISSION:TopSecret">You've discovered something no one has ever seen before!</v>
+  <v lbl="MISSION:BuildUp">Build up your defenses quickly before Yuri's attack forces arrive!</v>
+  <v lbl="MISSION:Boomers">WARNING - Boomer Subs spotted off the Antarctic coast</v>
+  <v lbl="MISSION:Lose1">We have lost our foothold in Antarctica</v>
+  <v lbl="MISSION:Lose2">All of our forces have been destroyed</v>
+  <v lbl="MISSION:Lose3">We have lost the ability to build radar</v>
+  <v lbl="MISSION:ReinforcementsSov04md">Reinforcements have arrived and await orders from your base</v>
+  <v lbl="MISSION:PolarBears">It looks like these bears were tired of the cold!</v>
+  <v lbl="MISSION:ReinforcementsSov06md">Reinforcements have arrived and await orders from your base</v>
+  <v lbl="MISSION:AllyBeacon">Hint: Capture or Destroy the Psychic Beacon in the Allied Base to release them from Yuri's control.</v>
+  <v lbl="MISSION:SovBeacon">Hint: Neutralize the Psychic Beacon controlling the Soviet Base and they will rally to your side against Yuri.</v>
+  <v lbl="MISSION:Sov07Obj01">Objective: Destroy Yuri's Fortress.</v>
+  <v lbl="MISSION:HiKBOAEO">KBO AEO</v>
+  <v lbl="MISSION:ComboWarn01">WARNING - Yuri has begun mixing the technologies at his disposal.</v>
+  <v lbl="MISSION:ComboWarn02">Make ready for these attacks.</v>
+  <v lbl="MISSION:GeneWarn">WARNING - Yuri's Genetic Mutator mutates normal soldiers, turning them into Brutes under Yuri's control.</v>
+  <v lbl="MISSION:C11Obj">Objective: Destroy all Soviet forces.</v>
+  <v lbl="MISSION:C11Nuke">Destroy the Soviets Nuclear Reactor.</v>
+  <v lbl="MISSION:C12Obj">Objective: Destroy all Yuri forces.</v>
+  <v lbl="MISSION:C12Spy">Hint: Use a Spy to shut down Yuri's power.</v>
+  <v lbl="MISSION:C13Def">Construct base defenses before enemy forces arrive.</v>
+  <v lbl="MISSION:C13Timer">Enemy forces arrive in:</v>
+  <v lbl="MISSION:C13Warn">WARNING - Enemy troop movements detected.</v>
+  <v lbl="MISSION:C13Obj">Objective: Destroy all Yuri and Soviet forces.</v>
+  <v lbl="MISSION:C21Timer">Reinforcements arrive in:</v>
+  <v lbl="MISSION:C21Grand">Destroy the Allied Grand Cannons.</v>
+  <v lbl="MISSION:C21Obj">Destroy all Allied forces.</v>
+  <v lbl="MISSION:C22Gatt">Destroy Yuri's Gattling Cannon defenses.</v>
+  <v lbl="MISSION:C23Obj">Objective: Destroy all Yuri and Allied forces.</v>
+  <v lbl="MISSION:C23Lab">Locate and capture Einstein's laboratory.</v>
+  <v lbl="MISSION:C23Nuke">Protect the Nuclear Reactors.</v>
+  <v lbl="MISSION:C31Obj">Objective: Destroy all Allied forces.</v>
+  <v lbl="MISSION:C31Crate">Hint: Destroy American monuments for a cash reward.</v>
+  <v lbl="MISSION:C32Navy">Build Boomer Submarines to destroy the Soviet Navy.</v>
+  <v lbl="MISSION:C33Obj">Objective: Destroy all Allied and Soviet forces.</v>
+  <v lbl="MISSION:C33">Hint: Target civilians with the Genetic Mutator to turn them into Brutes.</v>
+  <v lbl="MISSION:C41Combo">HINT:Try using combinations of Allied and Soviet units.</v>
+  <v lbl="MISSION:C41Hsptl">HINT: Capture the Tech Hospital to regenerate infantry health.</v>
+  <v lbl="MISSION:C41Mshop">HINT: Capture the Tech Machine Shop to regenerate vehicle armor.</v>
+  <v lbl="MISSION:C41Rig">HINT: Capture Tech Oil Derricks to increase cash flow.</v>
+  <v lbl="MISSION:C41Air">HINT: Capture the Tech Airport for Airborne reinforcements.</v>
+  <v lbl="MISSION:ObjCompleteSov04md">Objective Complete</v>
+  <v lbl="MISSION:DominatorSelfDestruct">Psychic Dominator Self Destruct</v>
+  <v lbl="MISSION:PsychicTowers">WARNING - Psychic Towers can mind control enemy units that get too close to them!</v>
+  <v lbl="MISSION:Sov1Obj2a">Destroy the Pill Boxes surrounding the Time Machine.</v>
