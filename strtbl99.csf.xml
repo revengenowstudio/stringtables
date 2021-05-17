@@ -84,74 +84,68 @@
   <v lbl="WDTAsiaCampaign">Asia</v>
   <v lbl="COOPERATIVEWIN">YOU ARE VICTORIOUS!</v>
 <!--LoadBrief section-->
-  <v lbl="LoadBrief:British">英国拥有强大的士兵师力量以及先进的步兵师装备。
+  <v lbl="LoadBrief:British">Britain has a strong soldier division and advanced infantry division equipment.
 
-专属能力：空投战甲、空投单兵碉堡
+Specialized Power: Airdrop battle armor, airdrop individual bunker
 
-专属单位：狙击手、观察员、布伦运载车、
-          圣骑士战甲、利刃突击艇、步兵战术中心</v>
-  <v lbl="LoadBrief:USA">美国拥有最完善的后勤保障和快速打击能力。
+Specialized Unit: Snipers, Observers, Bren Carriers, Paladin’s Armor, Dagger Assault Boats, Infantry Tactics Center</v>
+  <v lbl="LoadBrief:USA"> The United States has the most complete logistical support and rapid strike capabilities.
 
-专属能力：空降部队、空降坦克、机降游骑兵、
-          精确打击、空降精英光棱
+Specialized Power: Airborne troops, airborne tanks, airborne rangers, precise strikes, airborne elite prism
 
-专属单位：蜂鸟直升机、时空猎手、超时空载具传送平台</v>
-  <v lbl="LoadBrief:French">法国拥有火力强大的防守武器和先进的防御技术，它们射程长，破坏力惊人。
+Specialized Unit: Hummingbird Helicopter, Time Hunter, Hyperspace Vehicle Transmission Platform</v>
+  <v lbl="LoadBrief:French">France has powerful defensive weapons and advanced defensive technology. They have long cannon-shot and amazing destructive power.
 
-专属能力：洛林EMP升级、投放防御塔
+Specialized Power: Lolin EMP upgrade, deploy defensive tower
 
-专属单位：洛林导弹系统、巨炮、粉碎大炮、
-          布雷推土机、气象塔</v>
-  <v lbl="LoadBrief:Germans">德国拥有完备的装甲师配置，擅长使用坦克集群与敌方正面交锋。
+Specialized Unit: Lolin missile system, giant cannon, smashing cannon, Mine Laying Bulldozer, weather tower</v>
+  <v lbl="LoadBrief:Germans">German has the most complete armored division, they are good at using tank clusters to have face-to-face confront with the enemy.
 
-专属能力：王牌车组、自动化加速生产（未完成）
+Specialized Power: Ace tank group, automated accelerated production (unfinished)
 
-专属单位：灰熊UC、 条顿重型坦克、极光支援者、电子干扰车、
-          瓦尔哈拉维修平台、自动加工车间（未完成）</v>
-  <v lbl="LoadBrief:Korea">韩国将旧式的武装经过现代化升级以获得性价比优势，并易于采用对目标区域进行炮火覆盖后再进入敌占区的战术。
+Specialized Unit: Grizzle UC, Tilton Heavy Tank, Aurora Supporter, EMP Vehicle, Valhalla maintenance platform, automatic processing workshop (unfinished) </v>
+  <v lbl="LoadBrief:Korea">South Korea has modernized and upgraded its old-style weapons to obtain a cost-effective advantage, and can easily adopt the tactics of covering the target area first before entering the enemy-occupied area.
 
-专属能力：EMP轰炸支援、集火炮击
+Specialized Power: EMP bombing support, concentrated artillery bombarding
 
-专属单位：炎流弹步兵、光明星自行火炮、忠武级战舰、先军要塞</v>
-  <v lbl="LoadBrief:Russia">苏俄拥有先进的磁能科技，发达的工业体系，能在战局发展的任何阶段迅速形成不容小觑的力量。
+Specialized Unit: Stray Infantry, Kwangxing Self-propelled Artillery, Chungmu-class battleship, Songun Fortress </v>
+  <v lbl="LoadBrief:Russia">Soviet Russia has advanced magnetic energy technology and a developed industrial system, which can quickly form a force that cannot be underestimated at any stage of the war.
 
-专属能力：超凡磁暴、天降红潮
+Specialized Power: Supreme magnetic storm; falling red tide
 
-专属单位：磁能坦克、赛博格战队、磁能要塞、磁暴铁塔</v>
-  <v lbl="LoadBrief:Cuba">古巴的共产主义战士们从不撤退。他们在弹尽粮绝之时，不惜为苏维埃牺牲性命，多以自杀性冲锋方式与敌军最后一搏。
+Specialized Unit: Magnetic Energy Tank, Cyborg Team, Magnetic Energy Fortress, Magnetic Storm Tower</v>
+  <v lbl="LoadBrief:Cuba">The Communist fighters in Cuba never retreat. When they ran out of ammunition and food, they will not hesitate to sacrifice their lives for the Soviets, and often use suicidal assaults to fight their enemy one last time.
 
-专属能力：亡者救赎、狂热（未完成）
+Specialized Power: Death redemption, fanaticism (unfinished)
 
-专属单位：荣耀战士、亡命冲锋车、地狱自爆战机、
-          爆破小艇、赤炎坦克、烈焰核心、收割者、地道</v>
-  <v lbl="LoadBrief:Lybia">乌克兰拥有先进的核武器技术，能迅速有效地消灭大范围的敌人，无论攻防都不落于劣势。
+Specialized Unit: Glory Warrior, Desperate Assault Vehicle, Hell Self-destruct Fighter,
+           Demolition Boat, Red Flame Tank, Roaring Flame Core, Reaper, Tunnel</v>
+  <v lbl="LoadBrief:Lybia">Ukraine has advanced nuclear weapons, which can quickly and effectively destroy a wide range of enemies, leaving them in advantage regardless of offense and defense.
 
-专属能力：超凡磁暴、核能武装（未完成）、反应堆过载（未完成）；
+Specialized Power: Marvelous magnetic storms, nuclear weapons (unfinished), reactor overload (unfinished);
 
-专属单位：战术核炮、菲林斯核堡垒、赛博格战队、战术核潜艇</v>
-  <v lbl="LoadBrief:Iraq">越南在化学战方面有着丰富的经验，他们普遍使用脏弹、毒素等杀伤敌方人员，很好的弥补了防护不足的弱势；同时结合诡异多变的战术，给敌人造成了极大的损失。
+Specialized Unit: Tactical nuclear cannon, Filings nuclear fortress, Cyborg squad, Tactical nuclear submarine</v>
+  <v lbl="LoadBrief:Iraq">Vietnam has rich experience in chemical warfare. They generally use dirty bombs and toxins to eliminate their enemy, which makes up for the weakness of insufficient protection; in combination with weird and changeable tactics, great losses are caused to the enemy.
 
-专属能力：亡者救赎、双面间谍（未完成）、致命封锁（未完成）
+Specialized Power: Death redemption, double-face agent (unfinished), fatal blockade (unfinished)
 
-专属单位：化学工兵、毒蝎坦克、毒牙轰炸机、生化导弹车、
-          收割者、赤炎坦克、烈焰核心、地道</v>
-  <v lbl="LoadBrief:YuriCountry">原隶属于苏军阵营的尤里对苏军与盟军的基本军备了如指掌，并且善于结合三阵营的科技；此外，借力于天外科技，尤里便能以一己之力撼动整个战场的局势。
+Specialized Unit: Chemical engineers, scorpion tanks, fang bombers, biochemical missile vehicles, Reaper, Red Flame Tank, Roaring Flame Core, Tunnel</v>
+  <v lbl="LoadBrief:YuriCountry">Yuri, who originally belonged to the Soviet camp, knew well about the basic armaments of the Soviet and Allied forces. They are good at combining the technologies of the three camps. In addition, with the help of alien echnology, Yuri could overturn the situation of the entire battlefield on their own.
 
-专属能力：空降炸弹（待改进）
-
-专属单位：潜地突击车、镭射炮坦克、噬魂者坦克、
-          阿瑞斯火炮、意念核心</v>
+Specialized Power: Airborne bombs (ready for improvement)
+Specialized Unit: Burrow assault vehicle, laser cannon tank, Soul Eater Tank,
+           Ares Artillery, Mind Core</v>
 <!--LoadBriefShort section-->
-  <v lbl="LoadBriefShort:British">英国拥有军备较为完善的步兵师。</v>
-  <v lbl="LoadBriefShort:USA">美国拥有完善的快速打击与战场支援能力。</v>
-  <v lbl="LoadBriefShort:French">法国拥有先进的防御技术和防御武器。</v>
-  <v lbl="LoadBriefShort:Germans">德国拥有最具杀伤力的装甲军团。</v>
-  <v lbl="LoadBriefShort:Korea">韩国拥有全面的战机编队与极具威力的炮火打击力量。</v>
-  <v lbl="LoadBriefShort:Russia">苏俄拥有先进的磁能技术能在任何时刻形成不可小视的力量。</v>
-  <v lbl="LoadBriefShort:Cuba">古巴的亡命冲锋战术令敌人闻风丧胆。</v>
-  <v lbl="LoadBriefShort:Lybia">乌克兰利用强大的核武技术大规模重创敌方陆军部队。</v>
-  <v lbl="LoadBriefShort:Iraq">越南依靠生化武器有效制约敌军的步兵师和装甲师力量。</v>
-  <v lbl="LoadBriefShort:YuriCountry">尤里阵营拥有自己的科技树并善于融合所有科技。</v>
+  <v lbl="LoadBriefShort:British">Britain has relatively well-equipped infantry divisions.</v>
+  <v lbl="LoadBriefShort:USA">The United States has complete rapid strike and battlefield support capabilities. </v>
+  <v lbl="LoadBriefShort:French">France has advanced defense technology and defensive weapons. </v>
+  <v lbl="LoadBriefShort:Germans">Germany has the most lethal armored corps. </v>
+  <v lbl="LoadBriefShort:Korea">South Korea has a fully-equipped fighter formation and powerful artillery strike force. </v>
+  <v lbl="LoadBriefShort:Russia">Soviet Russia has advanced magnetic energy technology that can form a force that cannot be underestimated at any moment. </v>
+  <v lbl="LoadBriefShort:Cuba">Cuba’s desperate charge tactics made their enemy frightened. </v>
+  <v lbl="LoadBriefShort:Lybia">Ukraine has used its powerful nuclear technology to destroy their enemy forces massively. </v></v>
+  <v lbl="LoadBriefShort:Iraq">Relying on biological and chemical weapons, Vietnams can effectively restrain the enemy’s infantry and armored divisions. </v>。</v>
+  <v lbl="LoadBriefShort:YuriCountry">The Yuri camp has its own technology tree and is good at integrating all technologies. </v></v>
 <!--GameTypeDesc section-->
   <v lbl="GameTypeDesc:Battle">Ally with other players and battle until one team is victorious.</v>
   <v lbl="GameTypeDesc:FFA">Alliances are forbidden, there can be only one victor.</v>
