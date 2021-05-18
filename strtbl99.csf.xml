@@ -84,12 +84,12 @@
   <v lbl="WDTAsiaCampaign">Asia</v>
   <v lbl="COOPERATIVEWIN">YOU ARE VICTORIOUS!</v>
 <!--LoadBrief section-->
-  <v lbl="LoadBrief:British">Britain has a strong soldier division and advanced infantry division equipment.
+  <v lbl="LoadBrief:British">Great Britain has a strong soldier division and advanced infantry division equipment.
 
 Specialized Power: Airdrop battle armor, airdrop individual bunker
 
 Specialized Unit: Snipers, Observers, Bren Carriers, Paladin’s Armor, Dagger Assault Boats, Infantry Tactics Center</v>
-  <v lbl="LoadBrief:USA"> The United States has the most complete logistical support and rapid strike capabilities.
+  <v lbl="LoadBrief:USA"> The America has the most complete logistical support and rapid strike capabilities.
 
 Specialized Power: Airborne troops, airborne tanks, airborne rangers, precise strikes, airborne elite prism
 
@@ -99,17 +99,17 @@ Specialized Unit: Hummingbird Helicopter, Time Hunter, Hyperspace Vehicle Transm
 Specialized Power: Lolin EMP upgrade, deploy defensive tower
 
 Specialized Unit: Lolin missile system, giant cannon, smashing cannon, Mine Laying Bulldozer, weather tower</v>
-  <v lbl="LoadBrief:Germans">German has the most complete armored division, they are good at using tank clusters to have face-to-face confront with the enemy.
+  <v lbl="LoadBrief:Germans">Germany has the most complete armored division, they are good at using tank clusters to have face-to-face confront with the enemy.
 
 Specialized Power: Ace tank group, automated accelerated production (unfinished)
 
 Specialized Unit: Grizzle UC, Tilton Heavy Tank, Aurora Supporter, EMP Vehicle, Valhalla maintenance platform, automatic processing workshop (unfinished) </v>
-  <v lbl="LoadBrief:Korea">South Korea has modernized and upgraded its old-style weapons to obtain a cost-effective advantage, and can easily adopt the tactics of covering the target area first before entering the enemy-occupied area.
+  <v lbl="LoadBrief:Korea">Korea has modernized and upgraded its old-style weapons to obtain a cost-effective advantage, and can easily adopt the tactics of covering the target area first before entering the enemy-occupied area.
 
 Specialized Power: EMP bombing support, concentrated artillery bombarding
 
 Specialized Unit: Stray Infantry, Kwangxing Self-propelled Artillery, Chungmu-class battleship, Songun Fortress </v>
-  <v lbl="LoadBrief:Russia">Soviet Russia has advanced magnetic energy technology and a developed industrial system, which can quickly form a force that cannot be underestimated at any stage of the war.
+  <v lbl="LoadBrief:Russia">Russia has advanced magnetic energy technology and a developed industrial system, which can quickly form a force that cannot be underestimated at any stage of the war.
 
 Specialized Power: Supreme magnetic storm; falling red tide
 
@@ -130,22 +130,22 @@ Specialized Unit: Tactical nuclear cannon, Filings nuclear fortress, Cyborg squa
 Specialized Power: Death redemption, double-face agent (unfinished), fatal blockade (unfinished)
 
 Specialized Unit: Chemical engineers, scorpion tanks, fang bombers, biochemical missile vehicles, Reaper, Red Flame Tank, Roaring Flame Core, Tunnel</v>
-  <v lbl="LoadBrief:YuriCountry">Yuri, who originally belonged to the Soviet camp, knew well about the basic armaments of the Soviet and Allied forces. They are good at combining the technologies of the three camps. In addition, with the help of alien echnology, Yuri could overturn the situation of the entire battlefield on their own.
+  <v lbl="LoadBrief:YuriCountry">Yuri's force, who originally belonged to the Soviet camp, knew well about the basic armaments of the Soviet and Allied forces. They are good at combining the technologies of the three camps. In addition, with the help of alien echnology, Yuri could overturn the situation of the entire battlefield on their own.
 
 Specialized Power: Airborne bombs (ready for improvement)
 Specialized Unit: Burrow assault vehicle, laser cannon tank, Soul Eater Tank,
            Ares Artillery, Mind Core</v>
 <!--LoadBriefShort section-->
   <v lbl="LoadBriefShort:British">Britain has relatively well-equipped infantry divisions.</v>
-  <v lbl="LoadBriefShort:USA">The United States has complete rapid strike and battlefield support capabilities. </v>
+  <v lbl="LoadBriefShort:USA">The America has complete rapid strike and battlefield support capabilities. </v>
   <v lbl="LoadBriefShort:French">France has advanced defense technology and defensive weapons. </v>
   <v lbl="LoadBriefShort:Germans">Germany has the most lethal armored corps. </v>
-  <v lbl="LoadBriefShort:Korea">South Korea has a fully-equipped fighter formation and powerful artillery strike force. </v>
-  <v lbl="LoadBriefShort:Russia">Soviet Russia has advanced magnetic energy technology that can form a force that cannot be underestimated at any moment. </v>
+  <v lbl="LoadBriefShort:Korea">Korea has a fully-equipped fighter formation and powerful artillery strike force. </v>
+  <v lbl="LoadBriefShort:Russia">Russia has advanced magnetic energy technology that can form a force that cannot be underestimated at any moment. </v>
   <v lbl="LoadBriefShort:Cuba">Cuba’s desperate charge tactics made their enemy frightened. </v>
   <v lbl="LoadBriefShort:Lybia">Ukraine has used its powerful nuclear technology to destroy their enemy forces massively. </v></v>
   <v lbl="LoadBriefShort:Iraq">Relying on biological and chemical weapons, Vietnams can effectively restrain the enemy’s infantry and armored divisions. </v>。</v>
-  <v lbl="LoadBriefShort:YuriCountry">The Yuri camp has its own technology tree and is good at integrating all technologies. </v></v>
+  <v lbl="LoadBriefShort:YuriCountry">The Yuri'S force has its own technology tree and is good at integrating all technologies. </v>
 <!--GameTypeDesc section-->
   <v lbl="GameTypeDesc:Battle">Ally with other players and battle until one team is victorious.</v>
   <v lbl="GameTypeDesc:FFA">Alliances are forbidden, there can be only one victor.</v>
