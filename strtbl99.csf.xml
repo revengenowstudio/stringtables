@@ -143,8 +143,8 @@ Specialized Unit: Burrow assault vehicle, laser cannon tank, Soul Eater Tank,
   <v lbl="LoadBriefShort:Korea">Korea has a fully-equipped fighter formation and powerful artillery strike force. </v>
   <v lbl="LoadBriefShort:Russia">Russia has advanced magnetic energy technology that can form a force that cannot be underestimated at any moment. </v>
   <v lbl="LoadBriefShort:Cuba">Cuba’s desperate charge tactics made their enemy frightened. </v>
-  <v lbl="LoadBriefShort:Lybia">Ukraine has used its powerful nuclear technology to destroy their enemy forces massively. </v></v>
-  <v lbl="LoadBriefShort:Iraq">Relying on biological and chemical weapons, Vietnams can effectively restrain the enemy’s infantry and armored divisions. </v>。</v>
+  <v lbl="LoadBriefShort:Lybia">Ukraine has used its powerful nuclear technology to destroy their enemy forces massively. </v>
+  <v lbl="LoadBriefShort:Iraq">Relying on biological and chemical weapons, Vietnams can effectively restrain the enemy’s infantry and armored divisions. </v>
   <v lbl="LoadBriefShort:YuriCountry">The Yuri'S force has its own technology tree and is good at integrating all technologies. </v>
 <!--GameTypeDesc section-->
   <v lbl="GameTypeDesc:Battle">Ally with other players and battle until one team is victorious.</v>
@@ -157,7 +157,7 @@ Specialized Unit: Burrow assault vehicle, laser cannon tank, Soul Eater Tank,
   <v lbl="GameTypeDesc:Cooperative">Play campaign with a friend.</v>
 <!--CRD section-->
   <v lbl="CRD:CREDITS">CREDITS</v>
-  <v lbl="CRD:INTRODUCTION1">Red Alert 2 &amp; Yuri's Revenge are based on the original Command &amp; Conquer</v>
+  <v lbl="CRD:INTRODUCTION1">Revenge Now are based on the original Command &amp; Conquer Red Alert 2</v>
   <v lbl="CRD:INTRODUCTION2">created by Brett Sperry and Joseph Bostic</v>
   <v lbl="CRD_TTL:PRODUCTION">PRODUCTION</v>
   <v lbl="CRD:Executive_Producer">Executive Producer</v>
