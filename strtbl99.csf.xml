@@ -130,7 +130,7 @@ Specialized Unit: Tactical nuclear cannon, Filings nuclear fortress, Cyborg squa
 Specialized Power: Death redemption, double-face agent (unfinished), fatal blockade (unfinished)
 
 Specialized Unit: Chemical engineers, scorpion tanks, fang bombers, biochemical missile vehicles, Reaper, Red Flame Tank, Roaring Flame Core, Tunnel</v>
-  <v lbl="LoadBrief:YuriCountry">Yuri's force, who originally belonged to the Soviet camp, knew well about the basic armaments of the Soviet and Allied forces. They are good at combining the technologies of the three camps. In addition, with the help of alien echnology, Yuri could overturn the situation of the entire battlefield on their own.
+  <v lbl="LoadBrief:YuriCountry">Yuri's force, who originally belonged to the Soviet camp, knew well about the basic armaments of the Soviet and Allied forces. They are good at combining the technologies of the three camps. In addition, with the help of alien technology, Yuri could overturn the situation of the entire battlefield on their own.
 
 Specialized Power: Airborne bombs (ready for improvement)
 Specialized Unit: Burrow assault vehicle, laser cannon tank, Soul Eater Tank,
@@ -145,7 +145,7 @@ Specialized Unit: Burrow assault vehicle, laser cannon tank, Soul Eater Tank,
   <v lbl="LoadBriefShort:Cuba">Cuba’s desperate charge tactics made their enemy frightened. </v>
   <v lbl="LoadBriefShort:Lybia">Ukraine has used its powerful nuclear technology to destroy their enemy forces massively. </v>
   <v lbl="LoadBriefShort:Iraq">Relying on biological and chemical weapons, Vietnams can effectively restrain the enemy’s infantry and armored divisions. </v>
-  <v lbl="LoadBriefShort:YuriCountry">The Yuri'S force has its own technology tree and is good at integrating all technologies. </v>
+  <v lbl="LoadBriefShort:YuriCountry">The Yuri's force has its own technology tree and is good at integrating all technologies. </v>
 <!--GameTypeDesc section-->
   <v lbl="GameTypeDesc:Battle">Ally with other players and battle until one team is victorious.</v>
   <v lbl="GameTypeDesc:FFA">Alliances are forbidden, there can be only one victor.</v>
