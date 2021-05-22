@@ -1,230 +1,231 @@
   <v lbl="Brief:Error">Oops, there's no briefing for this mission. Examine MISSION.INI and RA2.STR for examples of how to do this.</v>
-  <v lbl="BRIEF:ALL01MD">尤里通过超时空传送逃脱了！当我们反应过来时，尤里已经调动了一大批部队大规模毁灭这座区域，似乎尤里想借此向我们挑衅。指挥官，随时留意可能的袭击，与尤里正面对抗并不是很好的决断，我们应当保留实力，避免更大的损失。
+  <v lbl="BRIEF:ALL01MD">Yuri Side has escaped away through Chrono transmission ! When we had time to react, he had mobilized a large group of troops to destroy the area on a large scale, through which Yuri Side seemed to be challenging us. Commander, be alert to any possible attacks at any time. It is not a good idea to confront him directly. Instead, we’d better keep our power to avoid more damage. 
+Objective 1：send Tanya to the base in North to contact with it again. 
+Objective 2：destroy the Psychic Dominator.
+Objective 3：Tanya can’t die.</v>
+  <v lbl="BRIEF:ALL02MD">According to the analysis of our information organization, the Chronosphere used by Yuri Side when he escaped is in the Hope Cape. It seems that Yuri Side has already occupied our most important Chronosphere base, which was once our fort against the Soviet Union. Therefore, if Yuri Side keeps occupying the base, it will threaten us greatly. At the same time, we must prevent Yuri Side from having enough time to thoroughly get Chrono technology or it will lead to a new catastrophe!
 
-任务目标一：派谭雅进入北方的基地，与基地重新取得联络。
-任务目标二：摧毁心灵控制器。
-任务目标三：谭雅不能殉职。</v>
-  <v lbl="BRIEF:ALL02MD">根据我们情报机构的分析，尤里逃脱时使用的超时空传送仪位于希望角。看来尤里早已经占领了我们最为重要的超时空传送仪基地，那座基地曾经是我们对抗苏联的要塞，如果让尤里继续占据那座基地，将会对我们构成极大威胁。同时，我们不能让尤里有足够的时间去掌握超时空传送技术，这将导致一场新的灾难！
+Objective 1：destroy the Psychic Beacon and rescue our coastal base.
+Objective 2：occupy the war room so as to copy and destroy all our our files. 
+Objective 3：destroy the Chronosphere before it is activated by Yuri Side again. </v>
+  <v lbl="BRIEF:ALL03MD">when we were busy destroying the Chronosphere in the Hope Cape, Yuri Side had already focused on emphatically attacking Washington. Therefore, we hopelessly got into Yuri Side’s trap and Washington was in his control. Meanwhile, he deployed a Psychic Dominator here to consolidate his mental control over Washington. However, we just received an emergency call, saying that the president seems to have failed to get away from Washington because of time limit and is still trapped in the White House, so Commander, do not act slowly or the president will become flesh. 
+
+Objective 1：destroy the Psychic Beacon before it is deployed again.
+Objective 2：destroy the Psychic Dominator and remove the threat of super weapons 
+Objective 3：wipe out all of Yuri’s forces</v>
+  <v lbl="Brief:All04md">In recent battles, we were always passively disadvantaged and now, we have been driven up to wall. There is no doubt that Yuri Side’s running away this time makes him wiser, but fortunately we still have Dr. Einstein’s trump card---Time Machine. Therefore, if we can go back to the past, we would still have the chance to kill Yuri before he implements all of his conspiracies. Commander, this is our last chance, so be sure that the time machine will not be destroyed by him by all means. 
+
+Objective 1：defend the time machine until it is activated.</v>
+  <v lbl="Brief:ALL0Xmd">e went back to the past by the time machine, but Yuri Side had asked his troops to head for the Hope Cape, so if we can prevent him from getting our Chrono technology, the war will probably change. Therefore, Commander! Take up your arms and fight for a new history. 
  
-任务目标一：摧毁心灵信标，解救我方沿海基地。
-任务目标二：占领作战室以备份并销毁所有我方资料。
-任务目标三：在尤里再次启动超时空传送仪之前，将其摧毁。</v>
-  <v lbl="BRIEF:ALL03MD">正当我们忙于摧毁希望角的超时空传送仪时，尤里早已将进攻重点置于华盛顿。我们很无奈地落入了尤里的圈套，因而华盛顿已经落入尤里的控制之中，并他已经在这里部署了一具心灵控制器，以巩固尤里在华盛顿的心灵控制。然而我们刚刚接到紧急求助，总统似乎并没来得及逃离华盛顿，仍然困在白宫之中。指挥官，不要动作慢吞吞的，让总统变成行尸走肉了。
+Objective 1：contact with the base again.
+Objective 2：destroy Yuri Side’s communication base. </v>
+  <v lbl="Brief:All05md">Perhaps we are still one step slower as Yuri Side has already got some research achievements on chrono technology. For lack of enough technical support, he focused his attention on Einstein Chrono Scientific Research Base in Black Forest, Germany in the hope of capturing our scientists through mental control. According to our latest military intelligence, the Soviet Union also plans to take the advantage to make a profit this time, so we will be faced with two powerful opponents. Therefore, Commander, whatever happens, you need to defend the lab well!
+
+Objective 1：destroy Yuri Side’s Psychic Dominator at full speed to stop his deployment.
+Objective 2：destroy Soviet bases and troops. 
+Objective 3：destroy Yuri Side’s front-line base.
+Note: be sure to keep either the Chronosphere or Einstein Laboratory</v>
+  <v lbl="Brief:All06md">we finally traced to the place where Yuri Side’s Chrono device gives out energy. It is located on an uncharted island in the Pacific ocean. Some of our well-organized troops are going to be sent to help you through Chrono transmission. Commander, you must be  extremely careful on the strange island! 
+
  
-任务目标一：在心灵信标再次部署之前将其摧毁
-任务目标二：摧毁心灵控制器，解除超武威胁
-任务目标三：清除所有尤里部队</v>
-  <v lbl="Brief:All04md">在最近的多次战役中，我们始终出于被动的劣势，如今我们已经被逼上绝路。尤里这次逃脱确凿让他长了不少智慧，不过还好，我们还有爱因斯坦博士的王牌-时间机器，如果可以回到过去，我们仍然有机会赶在尤里实施一切阴谋之前就解决掉他。指挥官，这是我们最后的机会，时间机器务必不能被尤里摧毁！
+Objective 1：land on the island and build a Chronosphere base. 
+Objective 2：destroy or occupy Yuri Side’s Chrono experimental device. 
+Objective 3：destroy Yuri Side’s rocket before it is launched ! </v>
+  <v lbl="BRIEF:ALL07MD">In remains of the rocket, we found the black box recording Yuri Side’s fight plan--it aimed to fly to the moon, so we believe that Yuri Side is probably hiding in his base there. In order to clearly know Yuri Side’s real conspiracy, we sent a group of task force to investigate there, which, however, lost touch with the headquarters. Commander, conquer the moon and kill the devil Yuri Side!
 
-任务目标一：死守时间机器直到其启动为止。</v>
-  <v lbl="Brief:ALL0Xmd">我们利用时间机器回到了过去，尤里已经派遣部队向希望角进发。如果我们可以防止尤里得到我们的超时空传送技术，或许这场战争将因此而改变。拿起武器战斗吧指挥官，新的历史将由您来改写。
+Objective 1：defend the rocket landing platform to wait for the reinforcements.
+Objective 2：occupy Yuri Side’s command center to get his secret file. 
+Objective 3：destroy all of Yuri Side’s forces</v>
+  <v lbl="Brief:Sov01md">it is strange that Yuri Side is still alive! Although we don’t know how much military power Yuri Side possesses now, according to the description of the urgent telegram from the Kremlin, some of Yuri Side’s forces appeared in Moscow, having gained some ground at full speed and cutting off the communication between the headquarters and Moscow forces. General, I don’t care whether Yuri Side threatens us or not now, you must get rid of the rubbish in Moscow as soon as possible, be quick!
+
+Objective 1：occupy the communication center and connect with the base again. 
+Objective 2：destroy all of Yuri Side’s forces. </v>
+  <v lbl="Brief:Sov02md">It was really terrible!---when we were busy dealing with Yuri Side’s surprise attack, the rest of some well-organized Allied forces had begun to fight against our regime, whose troops had already arrived in the sea area of Vladivostok. General, smash their foolish and babyish plan!
  
-任务目标一：与基地重新联络。
-任务目标二：摧毁尤里的通讯基地。</v>
-  <v lbl="Brief:All05md">或许我们还是晚了一步，尤里早已获得一些超时空传送技术的研究成果。由于没有足够的技术支持，他们把目标定向了位于德国黑森林的爱因斯坦超时空科研基地，企图以心灵控制的方式来俘虏我们的科学家。据最新的军事情报，苏联这次也打算浑水摸鱼，趁机获利，这样一来我们将同时面对两个强大的对手。指挥官，无论如何必须守住这座实验室！
+Objective 1：build a base.
+Objective 2：destroy all Allied forces. </v>
+  <v lbl="Brief:Sov03md">General, because of our carelessness, Allied forces have taken some land back. According to the latest information analysis, American president has already returned the White House. General, you don’t wish to see another Capitalist regime that is against our Soviet in the world, do you? The position of the Communist Party is unshakable, so you need to capture American president and make Allied Nations surrender to us again!
+
+Objective 1：build a military reserve base.
+Objective 2：destroy guard troops around the White House and capture American president.  
+Clue：you can get rewards after destroying landmark buildings. </v>
+  <v lbl="Brief:Sov04md">When we fought against Allied Nations, Yuri Side took the advantage to build a test base for Psychic Dominator. What does this mean if he is successful? I believe everyone knows the answer. General, you must destroy the Psychic Dominator as soon as possible so as to stifle his conspiracies in the cradle!
+
+Objective 1：remove the threat from the Psychic Beacon and wait for the reinforcements. 
+Objective 2：occupy the airport and get support from Allied forces.
+Objective 3：destroy the Psychic Dominator at all costs </v>
+  <v lbl="Brief:Sov0xmd">Yuri Side’s forces are developing at a surprising speed. Therefore, after the prime minister and American president consulted with each other, they decided to smash his central area and capture him. The movement this time is adventurous, so General, you must be alert to emergencies at any time!
+
+Objective 1：destroy Yuri Side’s Psychic Amplifier before he controls our forces.
+Objective 2：destroy Yuri Side’s fort and capture him.  </v>
+  <v lbl="Brief:Sov05md">Emergency! When we were about to announce the official signature of world peace agreement, our satellites, workers of space stations found a large number of unknown objects were approaching the earth rapidly and some of them were near the moon. As is reported, they are troops from Antare---a T80 star cloud. It seems that we are going to occupy the moon at first and then command and control the earth to make it their colony! Ok, General, we have to fight again!
  
-任务目标一：以最快速度摧毁尤里的心灵控制器，阻止其部署。
-任务目标二：摧毁苏军基地以及苏军部队。
-任务目标三：摧毁尤里的前线基地。
-提示：我们必须保住超时空传送仪或爱因斯坦实验室其中一个</v>
-  <v lbl="Brief:All06md">我们终于跟踪到了尤里超时空研究装置能量的发出地。它位于一座太平洋上一座未标明的小岛。我们已经准备好了一些部队，将以超时空传送的方式派去配合你的行动。指挥官，在这座陌生的岛屿，你一定要小心！
  
-任务目标一：登陆岛屿，建立一座超时空机基地
-任务目标二：摧毁或占领尤里的超时空实验装置
-任务目标三：在尤里火箭发射之前，将其摧毁！</v>
-  <v lbl="BRIEF:ALL07MD">我们在火箭的废墟中找到记录尤里飞行计划的黑匣子，它被设定飞往月球，我们认为尤里很有可能藏身于他的月球基地。为了弄清楚尤里真正的阴谋，我们派遣了一波特遣部队去调查，却与总部失去了联络。指挥官，征服月球，终结尤里这个恶魔！
-
-任务目标一：守住火箭登陆台，等待援军到达。
-任务目标二：占领尤里指挥中心，以获取尤里秘密档案
-任务目标三：消灭所有尤里部队。</v>
-  <v lbl="Brief:Sov01md">尤里居然没死！尽管我们并不知道尤里现在军事实力如何，但就克里姆林宫发来的紧急电报描述：莫斯科出现了一些尤里军队，并以最快的速度取得了一席之地，切断了总部与莫斯科军队的联络。将军，不管尤里是否还存在威胁，您首先必须清除莫斯科的垃圾，要快！
-
-任务目标一：占领通讯中心与基地重新连线。
-任务目标二：消灭所有尤里军队。</v>
-  <v lbl="Brief:Sov02md">真是糟糕，由于我们忙于与应对尤里的突袭，一些组织严密的遗留的盟军已经开始反抗我们的政权统治，他们已将军队率领至海参威海域。将军，粉碎他们愚蠢而幼稚的计划吧！
+Objective 1：defend the experiment center until the new weapons are worked out. 
+Objective 2：lock and destroy extra-terrestrial communication base on the moon. 
+Objective 3：go back to the earth quickly</v>
+  <v lbl="Brief:Sov06md">General, Antare attacked us with irresistible force and we tried our best to destroy their forward-deployed forces arriving at the moon, but gave them enough time to get to the earth. The frontline of Moscow has fallen, so if Moscow is occupied, it will be a great disaster although the existing Star Battleships have been sent to each strategic center on the earth! A good news is that Allied Nations and some of troops that have surrendered to Yuri Side decided to join us and you are allowed to apply their technology. We don’t know the result of the war, so we should gather our strength to drive the bugs from Antare out of Moscow!
  
-任务目标一：建立一座基地。
-任务目标二：消灭所有盟军。</v>
-  <v lbl="Brief:Sov03md">将军，在我们疏忽间，盟军已经夺回了部分土地。据最新情报分析，美国总统现在回到了白宫之中。将军，您不希望世界上再蹦出一个与我们苏维埃相违背的资本主义政权吧？共产党的地位是不容动摇的，俘虏美国总统，使盟军重新归顺于我们！
  
-任务目标一：建立一座军事后备基地。
-任务目标二：消灭白宫周围的守卫部队，俘虏美国总统。
-提示：摧毁标志性建筑可获得奖励</v>
-  <v lbl="Brief:Sov04md">尤里利用我们与盟军作战的时机，在摩洛哥建立了一座心灵控制器测试基地，如果成功的话意味着什么？我想大家都知道后果。将军，你一定要尽快摧毁心灵控制器，将他的阴谋扼杀在摇篮里！
- 
-任务目标一：消除心灵信标威胁，等待援军到达。
-任务目标二：占领机场，获得盟军支援。
-任务目标三：不惜一切代价摧毁心灵控制器。</v>
-  <v lbl="Brief:Sov0xmd">尤里军队发展速度出乎我们的预料，总理和美国总统协商决定直捣其中心地区，逮捕尤里。此次行动十分冒险，将军大人，您必须时刻留意突发情况！
+Objective 1：provide assistance to the Kremlin and help the prime minister to evacuate. 
+Objective 2：coordinate Psychic Beacon to withstand Antare’s attacks. 
+Objective 3：destroy the rest of Antare’s forces</v>
+  <v lbl="Brief:Sov07md">We detected that there was unknown action in Yuri Side’s nest in Romania. Then it was proved that the Allied forces and Soviet army defending there had lost contact with the headquarters and they were working on some regular scientific research activities. The premier worried it may be a conspiracy. The action this time is rather secret, so you must build the base at your fastest speed and bring the data away from the fort. 
 
-任务目标一：在尤里控制我方军队之前，摧毁心灵控制增幅仪
-任务目标二：摧毁尤里要塞，逮捕尤里</v>
-  <v lbl="Brief:Sov05md">紧急情况！正当我们要宣布世界和平协议正式签署的时候，我们的卫星、空间站工作人员发现了一大群未知物体正在迅速逼近地球，并且其中一部分已经接近月球。据了解，这是来自T80星云—安塔列星人的部队。看来他们打算首先占领月球，再获得对地球的控制指挥，将地球变成他们的殖民地！好了将军，我们又有的打了！
- 
-任务目标一：保卫好实验中心，直到研究出新式武器。
-任务目标二：锁定并摧毁外星人的月球通讯基地。
-任务目标三：迅速返回地球。</v>
-  <v lbl="Brief:Sov06md">将军，安塔列的袭击势如破竹，我们勉强消灭了抵达月球的安塔列前线部队，却给予了它们充分的时间抵达地球。莫斯科的前线已经失守，如果其沦陷，这将是巨大的灾难！虽然仅有的星际战舰已经被派往地球各个战略要冲，而好消息是，盟军和部分投降的尤里军队将加入我们共同对抗安塔列星人，你将被许可使用他们的科技。这是一场胜负未知的较量，打起精神，将安塔列的臭虫赶出莫斯科吧！
- 
-任务目标一：增援克里姆林宫，协助总理撤离。
-任务目标二：配合心灵信标，抵挡安塔列的进攻。
-任务目标三：消灭剩余的安塔列部队。</v>
-  <v lbl="Brief:Sov07md">我们追踪到罗马尼亚的尤里老巢有不明反应，经证实，此处驻守的盟军和苏军基地已与总部失去联络，并且正在从事一些有规律的科研活动。总理担心这是个阴谋。此次行动比较隐秘，因此您必须以最快的速度建设好基地，并将资料带离要塞。
+Objective 1：destroy the Psychic Beacon and emancipate local Allied and Soviet forces 
+Objective 2：send spies to the fort secretly to bring the data away. </v>
+  <v lbl="Brief:TRN01">The premier Yuri Side is trapped in Pacific Prison now. General, although it is defended closely here, our arms are well prepared and we have discovered a landing place on the east coast so as to save the premier as soon as possible and we will rise again!
 
-任务目标一：摧毁心灵信标，解放当地的盟军和苏军
-任务目标二：派遣特工潜入要塞，将资料带离</v>
-  <v lbl="Brief:TRN01">尤里总理现在被困太平洋监狱中。将军，虽然这里防御严密，但是我们我们已准备好军备，在东岸找到了一个登陆点，务必要把总理救出来，我们将东山再起！
+Objective 1：enter into the psychic chamber to rescue premier Yuri.
+Objective 2：look for and rescue the Mobile Construction Vehicle.
+Objective 3：restore and activate the Psychic Beacon to capture American forces. 
+Objective 4：Bring the premier into a helicopter safely and then leave. </v>
+  <v lbl="Brief:TRN02">We have successfully rescued the Premier and recollected some troops. However, because of limited materials, we need to have a military base. We aim at Yuri Island and plan to send an elite force to act. However, attention please, being unsatisfied with dictatorship of Allied Nations at present, the Soviet Union has already led off an attack to the island. Therefore, we need to make good use of the contradiction between them and don’t make Premier Yuri disappointed!
 
-任务目标一：进入心灵隔离室，救出尤里总理。
-任务目标二：寻找并解救基地车。
-任务目标三：修复并启动心灵信标，俘虏美军部队。
-任务目标四：将总理安全带入直升机，并撤离</v>
-  <v lbl="Brief:TRN02">我们已经成功救出了总理，并且也重新组建了部分军队，但是由于我们的物资有限，必须获得一个军事根据地。我们把目标瞄准了尤里岛，而且组织了一支精英部队进行行动。但是请注意，苏军此时正不满盟军的独裁，也已经向该岛发起进攻，利用苏联与美军的矛盾，不要让尤里总理失望！
+Objective 1：occupy Allied Battle Lab and control the rocket socket.
+Objective 2：destroy the rest of American forces who are unwilling to surrender and occupy the island</v>
+  <v lbl="Brief:TRN03">We have already occupied Yuri Island, repaired lunar landing equipment and prepared for landing on the moon to implement the plan of controlling the air. General, it seems that there are many troops and important military secrets, so you must find out their weapon designs!
 
-任务目标一：占领盟军作战实验室，控制火箭发射座
-任务目标二：消灭剩余不投降的美军，占领岛屿</v>
-  <v lbl="Brief:TRN03">我们已经占领了尤里岛，并且重新修复了登月设备，准备登陆月球实施制空计划。将军，此处似乎有许多军队和一些重要的军事机密，你一定要窃取到他们的武器设计图！
+Objective 1：destroy Soviet control center to make it out of control 
+Objective 2：occupy the control center to get the control over the Soviet base
+Objective 3：destroy the signal transmission tower before the arrival of American reinforcements </v>
+  <v lbl="Brief:TRN04">We have taken a place on the moon but Soviet Red Army still threatens us greatly, so Premier Yuri plans to deploy a Psychic Beacon in Moscow to control the heartland of the Soviet Union, which is equal to controlling the whole Soviet Red Army. Of course, Moscow is guarded closely and taking action hastily will only make us lose more troops. Therefore, we sent a task force to give the Soviet Union an unprepared attack. At this time, when they have time to react, they are already controlled by our Psychic Beacon.
 
-任务目标一：摧毁苏军控制中心，使其失去控制
-任务目标二：占领指挥中心，获得对苏军基地的控制权
-任务目标三：在美军援军到达前摧毁信号传送塔</v>
-  <v lbl="Brief:TRN04">我们已经在月球上占据了一席之地，但是苏联红军对我们仍然构成了很大威胁。尤里总理打算在莫斯科部署一具心灵信标，控制住苏联的心脏地带，就等于控制了整个苏联红军。当然，莫斯科防卫十分严密，贸然行动只会让我们损失过多的军队。因此我们派出了一支特遣部队，给苏联一个措手不及，当他们反应过来的时候，已经在我们心灵信标的控制之下了。
 
-任务目标一：占领苏联作战实验室，以建立一座心灵信标。
-任务目标二：启动心灵信标，俘虏周围的苏军部队。
-任务目标三：消灭莫斯科所有苏联防卫军，俘虏洛马诺夫。</v>
-  <v lbl="Brief:TRN05">苏联总理投降了，下一个目标就是美国总统。目前看来，美国的军事力量是盟军中最强的，并且他们拥有威胁性极大的光棱科技。将军，我们必须以最快的速度控制住美国，才能实现最终的目的。
+Objective 1：occupy NATECH to build a Psychic Beacon. 
+Objective 2：activate the Psychic Beacon and capture the surrounding Soviet forces. 
+Objective 3：destroy all of Soviet defense forces in Moscow and capture Romanov. </v>
+  <v lbl="Brief:TRN05">Premier of the Soviet Union surrendered and the next goal is American president. According to the present situation, America possesses the most powerful military forces among Allied Nations and has prism technology that has great threat. General, we must control America at the fastest speed and only in this way, can we achieve our ultimate purpose.
 
-任务目标一：将意志宣传车送到苏联基地，获得对其的控制权。
-任务目标二：占领盟军作战实验室，获得光棱科技。
-任务目标三：占领白宫，俘虏美国总统。</v>
-  <v lbl="Brief:TRN0X">时间所剩不多，由于苏军的能量过度释放，尤里总理已被困于侏罗纪。据最新情报，美军在苏联胜利之后又偷偷建立了一座时间机器，似乎想回到过去以挽回战局。我们集结了一些部队，希望可以占领那座时间机器，把尤里总理救回来。
- 
-任务目标一：摧毁摧毁海岸防御设施与美军舰队。
-任务目标二：占领时间机器。
-任务目标三：干掉暴龙，让尤里总理进入我们的时间机器。
-提示：苏联人可不会坐视不管，随时提防他们的突然进攻。</v>
-  <v lbl="Brief:TRN06">我们的心灵科技小组已经改进了心灵控制器的部分性能，打算在南极洲进行测试，并且顺便占领这里的一座盟军废弃的超时空传送仪以研究超时空移动科技。将军，小心行事，盟军随时可能发觉我们，动作一定要快！
+Objective 1：send will trucks to Soviet base to get the control over it.  
+Objective 2：occupy Allied Battle Lab and get prism technology. 
+Objective 3：occupy the White House and capture American president. </v>
+  <v lbl="Brief:TRN0X">Little time is left. Because of the excessive release of Soviet power, Premier Yuri is trapped in Jurassic Period. According to the latest information, after the Soviet Union won, American forces have built another time machine secretly, as if hoping to go back to the past to change the result. Therefore, we gathered some troops in the hope of occupying the time machine and rescuing premier Yuri. 
 
-任务目标一：占领超时空传送仪，等待援军到达。
-任务目标二：摧毁天气控制机，并建立心灵控制器。
-任务目标三：消灭剩余的所有苏、盟军队。
-提示：超时空机器不能被毁</v>
-  <v lbl="Brief:TRN07">美国军团现在已经穷途末路了。他们拿出了最后的王牌——时间机器来做最后的赌注。我们岂能让美国佬再度嚣张？将军，痛击美国吧。相信这次战役将是美军的终场，完结这华丽的篇章吧。
+Objective 1：destroy coastal defence installations and American fleets. 
+Objective 2：occupy the time machine.
+Objective 3：kill the tyrannosaurus and make premier Yuri enter into our time machine.
+Note: it is impossible for the Soviet to sit watching, so we need to look out for their sudden attacks. </v>
+  <v lbl="Brief:TRN06">Our psychic technology team has improved some performance of the Psychic Dominator and is planning to test it in Antarctica, and by the way occupy a Chronosphere abandoned by Allied Nations so as to research technology on Chrono travels. General, be careful as Allied Nations may find us at any time, so you must act quickly!
 
-任务目标一：派遣步兵占据通讯中心。
-任务目标二：锁定并摧毁时间机器。
-任务目标三：寻找并占领秘密实验室，获得心灵科技。
-任务目标四：建立一座心灵信标，并等待其部署。</v>
-  <v lbl="Brief:TRN08">盟军解散了！多么令人振奋的消息！但是等一下，盟军之前的将军卡维利和苏联的维拉迪摩将军集结了残存的部队，并且在珍珠港建立了海军基地。他们算是最后的首领了，将军，逮捕苏、盟的将军，并将他们就地正法！
+Objective 1：occupy the Chronosphere and wait for reinforcements.
+Objective 2：destroy Weather Control Device and build a Psychic Dominator.
+Objective 3：destroy the rest of Soviet and Allied forces.
+Note：be sure that the Chronosphere is not destroyed </v>
+  <v lbl="Brief:TRN07">American troops are now at the dead end, so they take out their last trump card----time machine to bet. How can we give these Yankees a chance to be arrogant again? General, just give America a bitter attack and I believe this war will be the final for American troops, so please complete the great chapter.
 
-任务目标一：清除岛屿驻扎军队，登陆并建立一座基地
-任务目标二：登陆珍珠港，找到卡维利将军和维拉迪摩将军
-任务目标三：将苏、盟将军带到苏联基地，等待其和苏联基地同归</v>
+Objective 1：send infantries to occupy the communication center.  
+Objective 2：lock and destroy the time machine.
+Objective 3：look for and occupy the secret lab to get psychic technology.
+Objective 4：build a Psychic Beacon and wait for the deployment.</v>
+  <v lbl="Brief:TRN08">Allied Nations broke up！What an inspiring news it is! But wait a moment, the former general Carville of Allied Nations and General Vladimir of the Soviet Union gathered the rest of their troops and built a naval base in Pearl Harbor. To some extent, they are the last leaders, so General, capture them and give them a summary execution!
+
+Objective 1：clean up the troops stationing on the island, land on it and build a base there.  
+Objective 2：land on Pearl Harbor to find out General Carville and General Vladimir  
+Objective 3：take the generals of Allied Nations and the Soviet Union to the Soviet base to wait for their same ending as the Soviet base. </v>
 <!--LoadMsg section-->
-  <v lbl="LoadMsg:All01md">军事行动：紫色光影 - 地点：太平洋军事监狱</v>
-  <v lbl="LoadMsg:All02md">军事行动：空间危机 - 地点：阿拉斯加希望角</v>
-  <v lbl="LoadMsg:All03md">军事行动：自由与服从 - 地点：华盛顿</v>
-  <v lbl="LoadMsg:All04md">军事行动：孤注一掷 - 地点：撒哈拉沙漠（最高机密地点）</v>
-  <v lbl="LoadMsg:ALL0XMD">军事行动：错乱时空 - 地点：阿拉斯加希望角</v>
-  <v lbl="LoadMsg:All05md">军事行动：黑色黄昏 - 地点：德国，黑森林</v>
-  <v lbl="LoadMsg:All06md">军事行动：空间裂缝 - 地点：太平洋中一个未标明的小岛</v>
-  <v lbl="LoadMsg:All07md">军事行动：蓝皮书计划 - 地点：月球</v>
-  <v lbl="LoadMsg:ALL08MD">军事行动：__ - 地点：__</v>
-  <v lbl="LoadMsg:Sov01md">军事行动：风云再起 - 位置：莫斯科</v>
-  <v lbl="LoadMsg:Sov02md">军事行动：躁动 - 地点：海参威</v>
-  <v lbl="LoadMsg:Sov03md">军事行动：统治者行动 - 地点：美国，华盛顿特区</v>
-  <v lbl="LoadMsg:Sov04md">军事行动：北非突袭 - 地点：摩洛哥</v>
-  <v lbl="LoadMsg:SOV0XMD">军事行动：终极对决 - 位置：罗马尼亚</v>
-  <v lbl="LoadMsg:Sov06md">军事行动：四面楚歌 - 地点：莫斯科</v>
-  <v lbl="LoadMsg:Sov05md">军事行动：深度拦截 - 地点：月球</v>
-  <v lbl="LoadMsg:Sov07md">军事行动：隐秘打击 - 地点：罗马尼亚</v>
-  <v lbl="LoadMsg:SOV08MD">军事行动：__ - 地点：__</v>
-  <v lbl="LoadMsg:TRN01">军事行动：东山再起 - 地点：太平洋军事监狱</v>
-  <v lbl="LoadMsg:TRN02">军事行动：深海突袭 - 地点：太平洋，复活节岛</v>
-  <v lbl="LoadMsg:TRN03">军事行动：探月者 - 地点：月球</v>
-  <v lbl="LoadMsg:TRN04">军事行动：莫斯科的黄昏 - 地点：莫斯科</v>
-  <v lbl="LoadMsg:TRN05">军事行动：华盛顿暴动 地点：华盛顿</v>
-  <v lbl="LoadMsg:TRN06">军事行动：极地心魔 地点：南极洲顶点</v>
-  <v lbl="LoadMsg:TRN07">军事行动：逃逸或是服从 地点：加州，旧金山</v>
-  <v lbl="LoadMsg:TRN08">军事行动：就地正法 - 地点：太平洋，珍珠港</v>
-  <v lbl="LoadMsg:TRN0X">隐秘军事行动：时空之乱  地点：加州，旧金山</v>
-  <v lbl="LoadMsg:RES01">生化危机：黎明</v>
-  <v lbl="LoadMsg:TEST01">任务调试：盟军</v>
-  <v lbl="LoadMsg:TEST02">任务调试：苏军</v>
-  <v lbl="LoadMsg:TEST03">任务调试：尤里</v>
+  <v lbl="LoadMsg:All01md">Purple Light - location：Pacific Military Prison</v>
+  <v lbl="LoadMsg:All02md">Space Crisis - location：Hope Cape in Alaska </v>
+  <v lbl="LoadMsg:All03md">Freedom and Compliance - location：Washington</v>
+  <v lbl="LoadMsg:All04md">Gamble - location：the Sahara Desert（top secret location）</v>
+  <v lbl="LoadMsg:ALL0XMD">military action：Disordered Spacetime - location：Hope Cape in Alaska</v>
+  <v lbl="LoadMsg:All05md">military action：Dark twilight - location: Black Forest in Germany</v>
+  <v lbl="LoadMsg:All06md">military action：Dimensional Rift - location：an uncharted island on the Pacific ocean</v>
+  <v lbl="LoadMsg:All07md">military action：Project Blue Book - location：Moon</v>
+  <v lbl="LoadMsg:ALL08MD">military action：__ - location：__</v>
+  <v lbl="LoadMsg:Sov01md">military action：Revival -  location：Moscow</v>
+  <v lbl="LoadMsg:Sov02md">military action：Agitation - location：Vladivostok</v>
+  <v lbl="LoadMsg:Sov03md">military action：Rulers’ Action - location：Washington DC, America</v>
+  <v lbl="LoadMsg:Sov04md">military action：Raids in North Africa - location：Morocco</v>
+  <v lbl="LoadMsg:SOV0XMD">military action：The Last Game -  location：Romania</v>
+  <v lbl="LoadMsg:Sov06md">military action：Beleaguered - location：Moscow</v>
+  <v lbl="LoadMsg:Sov05md">military action：In-depth Intercept - location：Moon</v>
+  <v lbl="LoadMsg:Sov07md">military action：Hidden Stroke - location: Romania</v>
+  <v lbl="LoadMsg:SOV08MD">military action：__ - location：__</v>
+  <v lbl="LoadMsg:TRN01">military action：Comeback- location: Pacific Military Prison</v>
+  <v lbl="LoadMsg:TRN02">military action：Abyssal Raids - location：Easter Island, the Pacific Ocean</v>
+  <v lbl="LoadMsg:TRN03">military action：Lunar Prospector - location：Moon </v>
+  <v lbl="LoadMsg:TRN04">military action: Twilight in Moscow - location：Moscow</v>
+  <v lbl="LoadMsg:TRN05">military action: Washington Riot  location：Washington</v>
+  <v lbl="LoadMsg:TRN06">military action：Polar Demon  location：Antarctic Peak </v>
+  <v lbl="LoadMsg:TRN07">military action：Escaping or Obeying location：San Francisco, California</v>
+  <v lbl="LoadMsg:TRN08">military action：Execution on the Spot - location：Pearl Harbor, Pacific Ocean </v>
+  <v lbl="LoadMsg:TRN0X">secret military action：Spacetime Disorder  location：San Francisco, California</v>
+  <v lbl="LoadMsg:RES01">Biohazard: Dawn</v>
+  <v lbl="LoadMsg:TEST01">task debugging：Allied Nations</v>
+  <v lbl="LoadMsg:TEST02">task debugging：the Soviet Union</v>
+  <v lbl="LoadMsg:TEST03">task debugging：Yuri Side</v>
 <!--LoadBrief section-->
-  <v lbl="LoadBrief:All01md">任务目标一：派谭雅进入北方的基地，与基地重新取得联络。
-任务目标二：摧毁心灵控制器。
-任务目标三：谭雅不能殉职。</v>
-  <v lbl="LoadBrief:All02md">任务目标一：摧毁心灵信标，解救我方沿海基地。
-任务目标二：占领作战室以备份并销毁所有我方资料。
-任务目标三：在尤里再次启动超时空传送仪之前，将其摧毁。</v>
-  <v lbl="LoadBrief:All03md">任务目标一：在心灵信标再次部署之前将其摧毁
-任务目标二：摧毁心灵控制器，解除超武威胁
-任务目标三：清除所有尤里部队</v>
-  <v lbl="LoadBrief:All04md">任务目标一：死守时间机器直到其启动为止。</v>
-  <v lbl="LoadBrief:All0xmd">任务目标一：与基地重新联络。
-任务目标二：摧毁尤里的通讯基地。</v>
-  <v lbl="LoadBrief:All05md">任务目标一：以最快速度摧毁尤里的心灵控制器，阻止其部署。
-任务目标二：摧毁苏军基地以及苏军部队。
-任务目标三：摧毁尤里的前线基地。
-提示：必须保住超时空传送仪或爱因斯坦实验室其中一个</v>
-  <v lbl="LoadBrief:All06md">任务目标一：登陆岛屿，建立一座超时空机基地
-任务目标二：摧毁或占领尤里的超时空实验装置
-任务目标三：在尤里火箭发射之前，将其摧毁！</v>
-  <v lbl="LoadBrief:All07md">任务目标一：守住火箭登陆台，等待援军到达。
-任务目标二：占领尤里指挥中心，以获取尤里秘密档案
-任务目标三：消灭所有尤里部队。</v>
-  <v lbl="LoadBrief:Sov01md">任务目标一：占领通讯中心与基地重新连线。
-任务目标二：消灭所有尤里军队。</v>
-  <v lbl="LoadBrief:Sov02md">任务目标一：建立一座基地。
-任务目标二：消灭所有盟军。</v>
-  <v lbl="LoadBrief:Sov03md">任务目标一：建立一座军事后备基地。
-任务目标二：消灭白宫周围的守卫部队，俘虏美国总统。
-提示：摧毁标志性建筑可获得奖励</v>
-  <v lbl="LoadBrief:Sov04md">任务目标一：消除心灵信标威胁，等待援军到达。
-任务目标二：占领机场，获得盟军支援。
-任务目标三：不惜一切代价摧毁心灵控制器。</v>
-  <v lbl="LoadBrief:Sov0xmd">任务目标一：在尤里控制我方军队之前，摧毁心灵控制增幅仪。
-任务目标二：摧毁尤里要塞，逮捕尤里</v>
-  <v lbl="LoadBrief:Sov05md">任务目标一：保卫好实验中心，直到研究出新式武器。
-任务目标二：锁定并摧毁外星人的月球通讯基地。
-任务目标三：迅速返回地球。</v>
-  <v lbl="LoadBrief:Sov06md">任务目标一：增援克里姆林宫，协助总理撤离。
-任务目标二：配合心灵信标，抵挡安塔列的进攻。
-任务目标三：消灭剩余的安塔列部队。</v>
-  <v lbl="LoadBrief:Sov07md">任务目标一：摧毁心灵信标，解放当地的盟军和苏军
-任务目标二：派遣特工潜入要塞，将资料带离</v>
-  <v lbl="LoadBrief:TRN01">任务目标一：进入心灵隔离室，救出尤里总理。
-任务目标二：寻找并解救基地车。
-任务目标三：修复并启动心灵信标，俘虏美军部队。
-任务目标四：将总理安全带入直升机，并撤离</v>
-  <v lbl="LoadBrief:TRN02">任务目标一：占领盟军作战实验室，控制火箭发射座
-任务目标二：消灭剩余不投降的美军，占领岛屿</v>
-  <v lbl="LoadBrief:TRN03">任务目标一：摧毁苏军控制中心，使其基地失去控制
-任务目标二：占领指挥中心，获得对苏军基地的控制权
-任务目标三：在美军援军到达前摧毁信号传输塔</v>
-  <v lbl="LoadBrief:TRN04">任务目标一：占领苏联作战实验室，以建立一座心灵信标。
-任务目标二：启动心灵信标，俘虏周围的苏军部队。
-任务目标三：消灭莫斯科所有苏联防卫军，俘虏洛马诺夫。</v>
-  <v lbl="LoadBrief:TRN05">任务目标一：将命令送到苏联基地，获得对其的控制权。
-任务目标二：占领盟军作战实验室，获得光棱科技。
-任务目标三：占领白宫，俘虏美国总统。</v>
-  <v lbl="LoadBrief:TRN06">任务目标一：占领超时空传送仪，等待援军到达。
-任务目标二：摧毁天气控制机，并建立心灵控制器。
-任务目标三：消灭剩余的所有苏、盟军队。</v>
-  <v lbl="LoadBrief:TRN07">任务目标一：派遣步兵占据通讯中心。
-任务目标二：锁定并摧毁时间机器。
-任务目标三：寻找并占领秘密实验室，获得心灵科技。
-任务目标四：建立一座心灵信标，并等待其部署。</v>
-  <v lbl="LoadBrief:TRN08">任务目标一：清除岛屿驻扎军队，登陆并建立一座基地
-任务目标二：登陆珍珠港，找到卡维利将军和维拉迪摩将军
-任务目标三：将苏、盟将军带到苏联基地，等待其和苏联基地同归</v>
-  <v lbl="LoadBrief:TRN0X">任务目标一：摧毁摧毁海岸防御设施与美军舰队。
-任务目标二：占领时间机器。
-任务目标三：干掉暴龙，让尤里总理进入我们的时间机器。
-提示：苏联人可不会坐视不管，随时提防他们的突然进攻。</v>
+  <v lbl="LoadBrief:All01md">Objective 1：send Tanya to the base in North to contact with it again. 
+Objective 2：destroy the Psychic Dominator.
+Objective 3：Tanya can’t die</v>
+  <v lbl="LoadBrief:All02md">Objective 1：destroy the Psychic Beacon and rescue our coastal base.  
+Objective 2：occupy the war room so as to copy and destroy all our our files.  
+Objective 3：destroy the Chronosphere before it is activated by Yuri Side again.</v>
+  <v lbl="LoadBrief:All03md">Objective 1：destroy the Psychic Beacon before it is deployed again. 
+Objective 2：destroy the Psychic Dominator and remove the threat of super weapons
+Objective 3：wipe out all of Yuri’s forces</v>
+  <v lbl="LoadBrief:All04md">Objective 1：defend the time machine until it is activated </v>
+  <v lbl="LoadBrief:All0xmd">Objective 1：contact with the base again.
+Objective 2：destroy Yuri Side’s communication base.</v>
+  <v lbl="LoadBrief:All05md">Objective 1：destroy Yuri Side’s Psychic Dominator at full speed to stop his deployment.
+Objective 2：destroy Soviet bases and troops.
+Objective 3：destroy Yuri Side’s front-line base.
+Note: be sure to keep either the Chronosphere or Einstein Laboratory</v>
+  <v lbl="LoadBrief:All06md">Objective 1：land on the island and build a Chronosphere base.
+Objective 2：destroy or occupy Yuri Side’s Chrono experimental device. 
+Objective 3：destroy Yuri Side’s rocket before it is launched ! </v>
+  
+  <v lbl="LoadBrief:All07md">Objective 1：defend the rocket landing platform to wait for the reinforcements.
+Objective 2：occupy Yuri Side’s command center to get his secret file. 
+Objective 3：destroy all of Yuri Side’s forces</v>
+  <v lbl="LoadBrief:Sov01md">Objective 1：occupy the communication center and connect with the base again. Objective 2：destroy all of Yuri Side’s forces</v>
+  <v lbl="LoadBrief:Sov02md">Objective 1：build a base.
+Objective 2：destroy all Allied forces.</v>
+  <v lbl="LoadBrief:Sov03md">Objective 1：build a military reserve base.
+Objective 2：destroy guard troops around the White House and capture American president.
+Clue：you can get rewards after destroying landmark buildings. </v>
+  <v lbl="LoadBrief:Sov04md">Objective 1：remove the threat from the Psychic Beacon and wait for the reinforcements. 
+Objective 2：occupy the airport and get support from Allied forces.
+Objective 3：destroy the Psychic Dominator at all costs </v>
+  <v lbl="LoadBrief:Sov0xmd">Objective 1：destroy Yuri Side’s Psychic Amplifier before he controls our forces.
+Objective 2：destroy Yuri Side’s fort and capture him.</v>
+  <v lbl="LoadBrief:Sov05md">Objective 1：defend the experiment center until the new weapons are worked out. Objective 2：lock and destroy extra-terrestrial communication base on the moon. Objective 3：go back to the earth quickly</v>
+  <v lbl="LoadBrief:Sov06md">Objective 1：provide assistance to the Kremlin and help the prime minister to evacuate.
+Objective 2：coordinate Psychic Beacon to withstand Antare’s attacks. 
+Objective 3：destroy the rest of Antare’s forces</v>
+  <v lbl="LoadBrief:Sov07md">Objective 1：destroy the Psychic Beacon and emancipate local Allied and Soviet forces
+Objective 2：send spies to the fort secretly to bring the data away. </v>
+  <v lbl="LoadBrief:TRN01">Objective 1：enter into the psychic chamber to rescue premier Yuri
+Objective 2：look for and rescue the Mobile Construction Vehicle.
+Objective 3：restore and activate the Psychic Beacon to capture American forces
+Objective 4：bring the premier into a helicopter safely and then leave. </v>
+  <v lbl="LoadBrief:TRN02">Objective 1: occupy Allied Battle Lab and control the rocket socket.
+Objective 2：destroy the rest of American forces who are unwilling to surrender and occupy the island</v>
+  <v lbl="LoadBrief:TRN03">Objective 1：destroy Soviet control center to make its base out of control.  
+Objective 2：occupy the control center to get the control over the Soviet base
+Objective 3：destroy the signal transmission tower before the arrival of American reinforcements </v>
+  <v lbl="LoadBrief:TRN04">Objective 1：occupy NATECH to build a Psychic Beacon.
+Objective 2：activate the Psychic Beacon and capture the surrounding Soviet forces.
+Objective 3：destroy all of Soviet defense forces in Moscow and capture Romanov. </v>
+  <v lbl="LoadBrief:TRN05">Objective 1：send orders to Soviet base to get the control over it.  
+Objective 2：occupy Allied Battle Lab and get prism technology. 
+Objective 3：occupy the White House and capture American president. </v>
+  <v lbl="LoadBrief:TRN06">Objective 1:occupy the Chronosphere and wait for reinforcements.
+Objective 2：destroy Weather Control Device and build a Psychic Dominator.
+Objective 3：destroy the rest of Soviet and Allied forces.</v>
+  <v lbl="LoadBrief:TRN07">Objective 1：send infantries to occupy the communication center.  
+Objective 2：lock and destroy the time machine.
+Objective 3：look for and occupy the secret lab to get psychic technology.
+Objective 4：build a Psychic Beacon and wait for the deployment.</v>
+  <v lbl="LoadBrief:TRN08">Objective 1：clean up the troops stationing on the island, land on it and build a base there.  
+Objective 2：land on Pearl Harbor find out General Carville and General Vladimir
+ Objective 3：take the generals of Allied Nations and the Soviet Union to the Soviet base to wait for their same ending as the Soviet base. </v>
+  <v lbl="LoadBrief:TRN0X">Objective 1：destroy coastal defence installations and American fleets.
+Objective 2：occupy the time machine.
+Objective 3：kill the tyrannosaurus and make premier Yuri enter into our time machine.
+Note: it is impossible for the Soviet to sit watching, so we need to look out for their sudden attacks. </v>
   <v lbl="Mission:ExtremeHam">Extreme Ham</v>
   <v lbl="MISSION:Objective1">Objective 1 Complete</v>
   <v lbl="MISSION:Objective2">Objective 2 Complete</v>
