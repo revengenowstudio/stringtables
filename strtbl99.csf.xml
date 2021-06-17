@@ -84,14 +84,14 @@
   <v lbl="WDTAsiaCampaign">Asia</v>
   <v lbl="COOPERATIVEWIN">YOU ARE VICTORIOUS!</v>
 <!--LoadBrief section-->
-  <v lbl="LoadBrief:British">Great Britain has a strong soldier division and advanced infantry division equipment.
+  <v lbl="LoadBrief:British">The Great Britain has well-organized soldier divisions and advanced infantry battle equipment.
 
-Specialized Power: Airdrop battle armor, airdrop individual bunker
+Specialized Ability: Airdrop battle mech, airdrop individual battle bunker
 
-Specialized Unit: Snipers, Observers, Bren Carriers, Paladin’s Armor, Dagger Assault Boats, Infantry Tactics Center</v>
+Specialized Unit: Sniper, Observer, Bren Carriers, Paladin’s Battle Mech, Dagger Assault Boats, Infantry Tactics Center</v>
   <v lbl="LoadBrief:USA"> The America has the most complete logistical support and rapid strike capabilities.
 
-Specialized Power: Airborne troops, airborne tanks, airborne rangers, precise strikes, airborne elite prism
+Specialized Ability: Paratroopers, airborne tanks, airborne rangers, precise strikes, airborne elite prism
 
 Specialized Unit: Hummingbird Helicopter, Time Hunter, Hyperspace Vehicle Transmission Platform</v>
   <v lbl="LoadBrief:French">France has powerful defensive weapons and advanced defensive technology. They have long cannon-shot and amazing destructive power.
