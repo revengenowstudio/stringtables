@@ -98,40 +98,40 @@ Specialized Unit: Hummingbird Helicopter, Chrono Hunter, Chrono Vehicle Teleport
 Specialized Ability: Lolin EMP upgrade, defensive tower quick deployment
 
 Specialized Unit: Lolin missile system, grand cannon, Mine Laying Bulldozer, weather tower</v>
-  <v lbl="LoadBrief:Germans">Germany has the most complete armored division, they are good at using tank clusters to have face-to-face confront with the enemy.
+  <v lbl="LoadBrief:Germans">Germany has the most complete armored batallion, they are good at using tank brigades to crush the enemy.
 
-Specialized Power: Ace tank squad, automated accelerated production (unfinished)
+Specialized Ability: Ace tank squad, automated accelerated productin (unfinished)
 
-Specialized Unit: Grizzle UC, Tilton Heavy Tank, Aurora Supporter, EMP Vehicle, Valhalla maintenance platform, automatic processing workshop (unfinished) </v>
+Specialized Unit: Grizzle UC, Tilton Heavy Tank, Aurora Supporter, Phantom Tank, Valhalla service platform, automatic processing workshop (unfinished) </v>
   <v lbl="LoadBrief:Korea">Korea has modernized and upgraded its old-style weapons to obtain a cost-effective advantage, and can easily adopt the tactics of covering the target area first before entering the enemy-occupied area.
 
-Specialized Power: EMP bombing support, concentrated artillery bombarding
+Specialized Ability: EMP bombing support, concentrated artillery bombarding
 
-Specialized Unit: Stray Infantry, Kwangxing Self-propelled Artillery, Chungmu-class battleship, Songun Fortress </v>
+Specialized Unit: Flaming Trooper, Kwangxing Self-propelled Artillery, Chungmu-class battleship, Songun Fortress </v>
   <v lbl="LoadBrief:Russia">Russia has advanced magnetic energy technology and a developed industrial system, which can quickly form a force that cannot be underestimated at any stage of the war.
 
-Specialized Power: Supreme magnetic storm; falling red tide
+Specialized Ability: Electric Rampage; falling red tide
 
 Specialized Unit: Magnetic Energy Tank, Cyborg Team, Magnetic Energy Fortress, Magnetic Storm Tower</v>
   <v lbl="LoadBrief:Cuba">The Communist fighters in Cuba never retreat. When they ran out of ammunition and food, they will not hesitate to sacrifice their lives for the Soviets, and often use suicidal assaults to fight their enemy one last time.
 
-Specialized Power: Death redemption, fanaticism (unfinished)
+Specialized Ability: Death redemption, fanaticism (unfinished)
 
 Specialized Unit: Glory Warrior, Desperate Assault Vehicle, Hell Self-destruct Fighter,
            Demolition Boat, Red Flame Tank, Roaring Flame Core, Reaper, Tunnel</v>
   <v lbl="LoadBrief:Lybia">Ukraine has advanced nuclear weapons, which can quickly and effectively destroy a wide range of enemies, leaving them in advantage regardless of offense and defense.
 
-Specialized Power: Marvelous magnetic storms, nuclear weapons (unfinished), reactor overload (unfinished);
+Specialized Ability: Marvelous magnetic storms, nuclear weapons (unfinished), reactor overload (unfinished);
 
 Specialized Unit: Tactical nuclear cannon, Filings nuclear fortress, Cyborg squad, Tactical nuclear submarine</v>
   <v lbl="LoadBrief:Iraq">Vietnam has rich experience in chemical warfare. They generally use dirty bombs and toxins to eliminate their enemy, which makes up for the weakness of insufficient protection; in combination with weird and changeable tactics, great losses are caused to the enemy.
 
-Specialized Power: Death redemption, double-face agent (unfinished), fatal blockade (unfinished)
+Specialized Ability: Death redemption, double-face agent (unfinished), fatal blockade (unfinished)
 
 Specialized Unit: Chemical engineers, scorpion tanks, fang bombers, biochemical missile vehicles, Reaper, Red Flame Tank, Roaring Flame Core, Tunnel</v>
   <v lbl="LoadBrief:YuriCountry">Yuri's force, who originally belonged to the Soviet camp, knew well about the basic armaments of the Soviet and Allied forces. They are good at combining the technologies of the three camps. In addition, with the help of alien technology, Yuri could overturn the situation of the entire battlefield on their own.
 
-Specialized Power: Airborne bombs (ready for improvement)
+Specialized Ability: Airborne bombs (ready for improvement)
 Specialized Unit: Burrow assault vehicle, laser cannon tank, Soul Eater Tank,
            Ares Artillery, Mind Core</v>
 <!--LoadBriefShort section-->
