@@ -938,3 +938,47 @@
   <v lbl="Name:Sov06mdSav">Soviet 06 - To The Moon</v>
   <v lbl="Name:Sov07mdSav">Soviet 07 - Head Games</v>
   <v lbl="Name:SovFinale">Soviet Finale</v>
+  <v lbl="Name:mapstring">==Revenge Now New Maps==</v>
+  <v lbl="Name:Voyage1969">Voyager 1969 (2)</v>
+  <v lbl="Name:moon_bighole">Huge Meteorite Crater (2-4)</v>
+  <v lbl="Name:moon_darkSide">Dark Side Of The Moon (2-8)</v>
+  <v lbl="Name:sp_comptition">Space Arena (2-4)<</v>
+  <v lbl="Name:sp_lostarea">The Lost Area (2-4)</v>
+  <v lbl="Name:ftr_mountmoras">Deep Side In Mountain (2 V 3)</v>
+  <v lbl="Name:ftr_southpole">Battle In Arctic (2 V 3)</v>
+  <v lbl="Name:ftr_citywar">Tug Of War (2 V 3)</v>
+  <v lbl="Name:ftr_mindstorm">Count Down (2 V 3)</v>
+  <v lbl="Name:ftr_fltftress">Floating Fortress (2 V 4)</v>
+  <v lbl="Name:ColorfulPath">Colorful Path (2)</v>
+  <v lbl="Name:GlacialValley">Glacial Valley (2)</v>
+  <v lbl="Name:EstivalBlueLake">Estival Blue Lake (2)</v>
+  <v lbl="Name:NA_MistIsland">Mistry Island (3)</v>
+  <v lbl="Name:GargasArchipelago">Gargas Archipelago (2-3)</v>
+  <v lbl="Name:ConflictFront">Conflict Front (2-4)</v>
+  <v lbl="Name:ScarsOfEarth">Scars Of Earth (2-4)</v>
+  <v lbl="Name:GirlOfLake">Girl Of Lake (2-4)</v>
+  <v lbl="Name:AngerOfFuhrer">Anger Of Fuhrer (2-4)</v>
+  <v lbl="Name:SinkSwim2">Sink Swim II (2-4)</v>
+  <v lbl="Name:goldenheaven2">Golden Heaven II (2-4)</v>
+  <v lbl="Name:NA_IslandBattle">Battle On Island (2-6)</v>
+  <v lbl="Name:tr_actoninstinct">Instinct Action (2-4)</v>
+  <v lbl="Name:WestVSWorst">West Versus Worst (2-6)</v>
+  <v lbl="Name:HideNSeek">Hide And Seek (2-6)</v>
+  <v lbl="Name:tr_NamelessHill">Nameless Hill (2-6)</v>
+  <v lbl="Name:WanChaiFerryPier">Wan Chai Ferry Pier (2-6)</v>
+  <v lbl="Name:tr_NuclearFallout">NuclearFallout (2-7)</v>
+  <v lbl="Name:Africa">Africa (2-7)</v>
+  <v lbl="Name:tr_HighAltitude">High Altitude Area (2-8)</v>
+  <v lbl="Name:EastWindValley">East Wind Valley (2-8)</v>
+  <v lbl="Name:tr_sdogtrainbase">Soviet's Dog Training Camp (2-8)</v>
+  <v lbl="Name:tr_riderheaven">Riders' Heaven (2-8)</v>
+  <v lbl="Name:dev_ecircle">Miracle Egypt Circle (2-8)</v>
+  <v lbl="Name:NAAIRF">Airforce HQ</v>
+  <v lbl="Name:GAGUN">Guardian Gun</v>
+  <v lbl="Name:NAIRNCAN">Iron Melter Cannon</v>
+  <v lbl="Name:GASAM">Lorraine Missile System</v>
+  <v lbl="Name:YAGRND_UP">Components Recycle
+-Upgrade on grinder
+-All vehicles auto fix
+-Limit 1</v>
+  <v lbl="Name:GAMISL">ICBM Silo</v>
