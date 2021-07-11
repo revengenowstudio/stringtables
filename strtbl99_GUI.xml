@@ -1117,6 +1117,8 @@
   <v lbl="STT:PlayerColorSkyBlue">Choose this to be light blue.</v>
   <v lbl="STT:PlayerColorPurple">Choose this to be purple.</v>
   <v lbl="STT:PlayerColorPink">Choose this to be pink.</v>
+  <v lbl="STT:PlayerColorLemon">Choose this to be lemon green.</v>
+  <v lbl="STT:PlayerColorPinkPurple">Choose this to be pink purple.</v>
   <v lbl="STT:ModeBattle">In 'Battle' you may ally with other players.</v>
   <v lbl="STT:ModeMegawealth">In 'Megawealth' you must capture Oil Derricks to earn money.</v>
   <v lbl="STT:ModeDuel">In 'Land Rush' you must race other players to find a good base location.</v>
@@ -1189,6 +1191,7 @@
   <v lbl="STT:WOLNews">Get the latest news for Yuri's Revenge.</v>
   <v lbl="STT:AlliedCampaignIcon">Click the Allied icon to start Allied campaign.</v>
   <v lbl="STT:SovietCampaignIcon">Click the Soviet icon to start Soviet campaign.</v>
+  <v lbl="STT:CampaignAnimYuri">Click the Yuri icon to start Yuri campaign</v>
   <v lbl="Tip:Rocket">Rocket</v>
   <v lbl="Tip:Repair">Repair</v>
   <v lbl="Tip:MachineGun">Machine Gun</v>
