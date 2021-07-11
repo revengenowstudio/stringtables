@@ -982,3 +982,19 @@
 -All vehicles auto fix
 -Limit 1</v>
   <v lbl="Name:GAMISL">ICBM Silo</v>
+  <v lbl="Name:TRN01">Operation: Start Over</v>
+  <v lbl="Name:TRN01Sav">Yuri 01 - Start Over</v>
+  <v lbl="Name:TRN02">Operation: Submarine Strike</v>
+  <v lbl="Name:TRN02Sav">Yuri 02 - Submarine Strike</v>
+  <v lbl="Name:TRN03Sav">Yuri 03 - Back To Moon</v>
+  <v lbl="Name:TRN03">Operation: Back To Moon</v>
+  <v lbl="Name:TRN04">Operation: Dawn Of Moscow</v>
+  <v lbl="Name:TRN04Sav">Yuri 04 - Dawn Of Moscow</v>
+  <v lbl="Name:TRN05">Operation: Fallen Of Washington</v>
+  <v lbl="Name:TRN05Sav">Yuri 05 - Fallen Of Washington</v>
+  <v lbl="Name:TRN06">Operation: Arctic Mind Storm</v>
+  <v lbl="Name:TRN06Sav">Yuri 06 - Arctic Mind Storm</v>
+  <v lbl="Name:TRN07">Operation: Be One With Yuri</v>
+  <v lbl="Name:TRN07Sav">Yuri 07 - Be One With Yuri</v>
+  <v lbl="Name:TRN08">Operation: The Execution</v>
+  <v lbl="Name:TRN08Sav">Yuri 08 - The Execution</v>
