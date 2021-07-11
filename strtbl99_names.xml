@@ -75,7 +75,6 @@
   <v lbl="Name:HTNK">Rhino Heavy Tank</v>
   <v lbl="Name:LTNK">Light Tank</v>
   <v lbl="Name:MTNK">Grizzly Battle Tank</v>
-  <v lbl="Name:MTNKDEP">Deployed Grizzly Battle Tank</v>
   <v lbl="Name:MGTK">Mirage Tank</v>
   <v lbl="Name:FV">IFV</v>
   <v lbl="Name:TNKD">Tank Destroyer</v>
@@ -90,11 +89,7 @@
   <v lbl="Name:HIND">Hind Transport</v>
   <v lbl="Name:TRNSPORT">Carryall</v>
   <v lbl="Name:SHAD">NightHawk Transport</v>
-  <v lbl="Name:ZEP">Kirov Airship
-  -Invincible for 30s when deployed
-  -Unable to attack when invincible
-  -CD 2 min
-  </v>
+  <v lbl="Name:ZEP">Kirov Airship</v>
   <v lbl="Name:HORNET">Hornet</v>
   <v lbl="Name:DMISL">Missile</v>
   <v lbl="Name:ASW">Osprey</v>
@@ -154,10 +149,7 @@
   <v lbl="Name:GAVULC">Vulcan Cannon</v>
   <v lbl="Name:GAROCK">RPG Upgrade</v>
   <v lbl="Name:GACSAM">SAM Upgrade</v>
-  <v lbl="Name:GAPOWRUP">Power upgrade
-  -Plugin on power plant
-  -Increase power output
-  </v>
+  <v lbl="Name:GAPOWRUP">Power Turbine</v>
   <v lbl="Name:GAPLUG1">Threat Rating Node</v>
   <v lbl="Name:GAPLUG2">Seeker Control</v>
   <v lbl="Name:GAPLUG3">Ion Cannon Uplink</v>
@@ -629,7 +621,7 @@
   <v lbl="Name:Virus">Virus</v>
   <v lbl="Name:Brute">Brute</v>
   <v lbl="Name:YuriClone">Yuri Clone</v>
-  <v lbl="Name:YuriPrime">Yuri Prime Clone</v>
+  <v lbl="Name:YuriPrime">Yuri Prime</v>
   <v lbl="Name:Lasher">Lasher Light Tank</v>
   <v lbl="Name:GattTank">Gattling Tank</v>
   <v lbl="Name:ChaosDrone">Chaos Drone</v>
